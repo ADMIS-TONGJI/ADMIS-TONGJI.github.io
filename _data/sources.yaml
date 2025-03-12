@@ -130,9 +130,6 @@
 - id: doi:10.3390/rs14102371
   image: images/papers/10.3390rs14102371.jpg
 
-- id: doi:10.1007/s00778-021-00706-0
-  image: images/papers/10.1007s00778-021-00706-0.jpg
-
 - id: doi:10.1093/bioinformatics/btac377
   image: images/papers/10.1093bioinformaticsbtac377.jpg
 
@@ -144,9 +141,6 @@
 
 - id: doi:10.1117/1.JEI.31.3.033044
   image: images/papers/10.11171.JEI.31.3.033044.jpg
-
-- id: doi:10.1049/cvi2.12137
-  image: images/papers/10.1049cvi2.12137.jpg
 
 - id: doi:10.18653/v1/2022.naacl-main.349
   image: images/papers/10.18653v12022.naacl-main.349.jpg
@@ -171,9 +165,6 @@
 
 - id: doi:10.1093/bioinformatics/btab195
   image: images/papers/10.1093bioinformaticsbtab195.jpg
-
-- id: doi:10.1186/s12859-021-04033-7
-  image: images/papers/10.1186s12859-021-04033-7.jpg
 
 - id: doi:10.1186/s12859-021-04369-0
   image: images/papers/10.1186s12859-021-04369-0.jpg
@@ -398,10 +389,6 @@
 - id: doi:10.1186/s12918-017-0504-3
   image: images/papers/10.1186s12918-017-0504-3.png
 
-# Fusion Analysis of Resting State Networks And Its Application to Alzheimer's Disease
-- id: doi:10.26599/TST.2018.9010099
-  image: images/papers/10.26599TST.2018.9010099.png
-
 # Alignment of Dynamic Protein-Protein Interaction Networks Based on Segment Tree Optimization
 - id: doi:10.1186/s12859-020-3502-1
   image: images/papers/10.1186s12859-020-3502-1.png
@@ -417,10 +404,6 @@
 # Boosting Compound-Protein Interaction Prediction by Deep Learning
 - id: doi:10.1109/BIBM.2015.7359651
   image: images/papers/10.1109BIBM.2015.7359651.png
-
-# Improving compound-protein interaction prediction by building up highly credible negative samples.
-- id: doi:10.1093/bioinformatics/btv256
-  image: images/papers/10.1093bioinformaticsbtv256.png
 
 # Boosting Financial Trend Prediction with Twitter Mood Based on Selective Hidden Markov Models.
 - id: doi:10.1007/978-3-319-18123-3_26
@@ -442,14 +425,6 @@
 - id: doi:10.1007/978-3-319-08016-1_26
   image: images/papers/10.1007978-3-319-08016-1_26.png
 
-# Similarity Analysis of DNA Sequences Based on Frequent Patterns and Entropy.
-- id: doi:10.1186/1471-2164-16-S3-S5
-  image: images/papers/10.11861471-2164-16-S3-S5.png
-
-# Exploiting Topic Modeling to Boost Metagenomic Sequences Binning.
-- id: doi:10.1186/1471-2105-16-S5-S2
-  image: images/papers/10.11861471-2105-16-S5-S2.webp
-
 # Distributed Spatial Keyword Querying on Road Networks.
 - id: doi:10.5441/002/edbt.2014.23
   image: images/papers/10.5441002edbt.2014.23.png
@@ -457,18 +432,6 @@
 # Efficiently Evaluating Range-Constrained Spatial Keyword Query on Road Networks.
 - id: doi:10.1007/978-3-662-43984-5_21
   image: images/papers/10.1007978-3-662-43984-5_21.webp
-
-# Revisiting Topological Properties and Models of Protein-Protein Interaction Networks from the Perspective of Dataset Evolution.
-- id: doi:10.1049/iet-syb.2014.0053
-  image: images/papers/10.1049iet-syb.2014.0053.png
-
-# Boosting Prediction Performance of Protein-Protein Interaction Hot Spots by Using Structural Neighborhood Properties.
-- id: doi:10.1089/cmb.2013.0083
-  image: images/papers/10.1089cmb.2013.0083.jpg
-
-# Active Learning for Protein Function Prediction in Protein-Protein Interaction Networks.
-- id: doi:10.1016/j.neucom.2014.05.075
-  image: images/papers/10.1016j.neucom.2014.05.075.jpg
 
 # DISKs: A System for Distributed Spatial Group Keyword Search on Road Networks.
 - id: doi:10.14778/2367502.2367549
@@ -764,26 +727,8 @@
 - id: doi:10.2174/092986610791190336
   image: images/papers/10.2174092986610791190336.png
 
-- id: doi:10.1016/j.physa.2010.09.027
-  image: images/papers/10.1016j.physa.2010.09.027.png
-
 - id: doi:10.1186/1471-2105-10-426
   image: images/papers/10.11861471-2105-10-426.png
-
-- id: doi:10.1145/3511808.3557549
-  image: images/papers/10.11453511808.3557549.png
-
-- id: doi:10.1109/TBDATA.2020.2988273
-  image: images/papers/10.1109TBDATA.2020.2988273.png
-
-- id: doi:10.1109/TSC.2019.2941680
-  image: images/papers/10.1109TSC.2019.2941680.png
-
-- id: doi:10.1145/3340531.3412076
-  image: images/papers/10.11453340531.3412076.png
-
-- id: doi:10.1007/978-3-030-59419-0_48
-  image: images/papers/10.1007978-3-030-59419-0_48.png
 
 - id: doi:10.1080/13658816.2018.1520236
   image: images/papers/10.108013658816.2018.1520236.png
