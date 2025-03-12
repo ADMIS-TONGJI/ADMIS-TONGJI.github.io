@@ -1,15 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1109/TAI.2024.3459857
-  title: 'Traffexplainer: A Framework towards GNN-based Interpretable Traffic Prediction'
+  title: 'Traffexplainer: A Framework Toward GNN-Based Interpretable Traffic Prediction'
   authors:
   - Lingbai Kong
   - Hanchen Yang
   - Wengen Li
+  - Yichao Zhang
   - Jihong Guan
   - Shuigeng Zhou
   publisher: IEEE Transactions on Artificial Intelligence
-  date: '2024-01-01'
+  date: '2025-03-01'
   link: https://doi.org/g8nm6z
   image: images/papers/10.1109TAI.2024.3459857.png
   plugin: sources.py
@@ -288,7 +289,7 @@
   publisher: IET Computer Vision
   date: '2022-09-14'
   link: https://doi.org/g8nv6h
-  image: images/papers/10.1049cvi2.12137.jpg
+  image: images/papers/10.1049cvi2.12137.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2023.02.027
@@ -631,21 +632,6 @@
   image: images/papers/10.3390rs14102371.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1007/s00778-021-00706-0
-  title: Privacy and efficiency guaranteed social subgraph matching
-  authors:
-  - Kai Huang
-  - Haibo Hu
-  - Shuigeng Zhou
-  - Jihong Guan
-  - Qingqing Ye
-  - Xiaofang Zhou
-  publisher: The VLDB Journal
-  date: '2021-11-11'
-  link: https://doi.org/g8n2dg
-  image: images/papers/10.1007s00778-021-00706-0.jpg
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1093/bioinformatics/btac377
   title: "Effective drug\u2013target interaction prediction with mutual interaction\
     \ neural network"
@@ -821,18 +807,6 @@
   image: images/papers/10.1093bioinformaticsbtab195.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1186/s12859-021-04033-7
-  title: Boosting scRNA-seq data clustering by cluster-aware feature weighting
-  authors:
-  - Rui-Yi Li
-  - Jihong Guan
-  - Shuigeng Zhou
-  publisher: BMC Bioinformatics
-  date: '2021-06-02'
-  link: https://doi.org/gm2h8g
-  image: images/papers/10.1186s12859-021-04033-7.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1186/s12859-021-04369-0
   title: "Protein\u2013protein interaction prediction based on ordinal regression\
     \ and recurrent convolutional neural networks"
@@ -888,6 +862,21 @@
   date: '2021-09-01'
   link: https://doi.org/g4kc7k
   image: images/papers/10.1109TSMC.2019.2947516.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00778-021-00706-0
+  title: Privacy and efficiency guaranteed social subgraph matching
+  authors:
+  - Kai Huang
+  - Haibo Hu
+  - Shuigeng Zhou
+  - Jihong Guan
+  - Qingqing Ye
+  - Xiaofang Zhou
+  publisher: The VLDB Journal
+  date: '2021-11-11'
+  link: https://doi.org/g8n2dg
+  image: images/papers/10.1007s00778-021-00706-0.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/tcbb.2021.3128576
@@ -1144,6 +1133,18 @@
   image: images/papers/10.1142S0219720020400053.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1186/s12859-021-04033-7
+  title: Boosting scRNA-seq data clustering by cluster-aware feature weighting
+  authors:
+  - Rui-Yi Li
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Bioinformatics
+  date: '2021-06-02'
+  link: https://doi.org/gm2h8g
+  image: images/papers/10.1186s12859-021-04033-7.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s12864-023-09577-x
   title: A new and effective two-step clustering approach for single cell RNA sequencing
     data
@@ -1210,7 +1211,7 @@
   publisher: Tsinghua Science and Technology
   date: '2019-08-01'
   link: https://doi.org/g8n2fj
-  image: images/papers/10.26599TST.2018.9010099.png
+  image: images/papers/10.26599TST.2018.9010099.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-019-09670-4
@@ -1860,21 +1861,6 @@
   image: images/papers/10.1109BIBM.2015.7359651.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1093/bioinformatics/btv256
-  title: "Improving compound\u2013protein interaction prediction by building up highly\
-    \ credible negative samples"
-  authors:
-  - Hui Liu
-  - Jianjiang Sun
-  - Jihong Guan
-  - Jie Zheng
-  - Shuigeng Zhou
-  publisher: Bioinformatics
-  date: '2015-06-10'
-  link: https://doi.org/g8n2jw
-  image: images/papers/10.1093bioinformaticsbtv256.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1007/978-3-319-18123-3_26
   title: Boosting Financial Trend Prediction with Twitter Mood Based on Selective
     Hidden Markov Models
@@ -1941,31 +1927,6 @@
   image: images/papers/10.1007978-3-319-08016-1_26.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1186/1471-2164-16-S3-S5
-  title: Similarity evaluation of DNA sequences based on frequent patterns and entropy
-  authors:
-  - Xiaojing Xie
-  - Jihong Guan
-  - Shuigeng Zhou
-  publisher: BMC Genomics
-  date: '2015-01-29'
-  link: https://doi.org/gb3hv8
-  image: images/papers/10.11861471-2164-16-S3-S5.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1186/1471-2105-16-S5-S2
-  title: Exploiting topic modeling to boost metagenomic reads binning
-  authors:
-  - Ruichang Zhang
-  - Zhanzhan Cheng
-  - Jihong Guan
-  - Shuigeng Zhou
-  publisher: BMC Bioinformatics
-  date: '2015-03-18'
-  link: https://doi.org/gb8w7m
-  image: images/papers/10.11861471-2105-16-S5-S2.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.5441/002/edbt.2014.23
   title: Distributed Spatial Keyword Querying on Road Networks
   authors:
@@ -1990,49 +1951,6 @@
   date: '2014-01-01'
   link: https://doi.org/g8n2j8
   image: images/papers/10.1007978-3-662-43984-5_21.webp
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1049/iet-syb.2014.0053
-  title: "Revisiting topological properties and models of protein\u2013protein interaction\
-    \ networks from the perspective of dataset evolution"
-  authors:
-  - Mingyu Shao
-  - Shuigeng Zhou
-  - Jihong Guan
-  publisher: IET Systems Biology
-  date: '2015-08-01'
-  link: https://doi.org/f7zqb7
-  image: images/papers/10.1049iet-syb.2014.0053.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1089/cmb.2013.0083
-  title: "Boosting Prediction Performance of Protein\u2013Protein Interaction Hot\
-    \ Spots by Using Structural Neighborhood Properties"
-  authors:
-  - Lei Deng
-  - Jihong Guan
-  - Xiaoming Wei
-  - Yuan Yi
-  - Qiangfeng Cliff Zhang
-  - Shuigeng Zhou
-  publisher: Journal of Computational Biology
-  date: '2013-11-01'
-  link: https://doi.org/f5ftsp
-  image: images/papers/10.1089cmb.2013.0083.jpeg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.neucom.2014.05.075
-  title: "Active learning for protein function prediction in protein\u2013protein\
-    \ interaction networks"
-  authors:
-  - Wei Xiong
-  - Luyu Xie
-  - Shuigeng Zhou
-  - Jihong Guan
-  publisher: Neurocomputing
-  date: '2014-12-01'
-  link: https://doi.org/g8n2kc
-  image: images/papers/10.1016j.neucom.2014.05.075.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.14778/2367502.2367549
@@ -2498,6 +2416,21 @@
   image: images/papers/10.1109TCBB.2015.2430331.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1093/bioinformatics/btv256
+  title: "Improving compound\u2013protein interaction prediction by building up highly\
+    \ credible negative samples"
+  authors:
+  - Hui Liu
+  - Jianjiang Sun
+  - Jihong Guan
+  - Jie Zheng
+  - Shuigeng Zhou
+  publisher: Bioinformatics
+  date: '2015-06-10'
+  link: https://doi.org/g8n2jw
+  image: images/papers/10.1093bioinformaticsbtv256.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ins.2015.06.033
   title: Effectively classifying short texts by structured sparse representation with
     dictionary filtering
@@ -2524,6 +2457,19 @@
   image: null
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1049/iet-syb.2014.0053
+  title: "Revisiting topological properties and models of protein\u2013protein interaction\
+    \ networks from the perspective of dataset evolution"
+  authors:
+  - Mingyu Shao
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: IET Systems Biology
+  date: '2015-08-01'
+  link: https://doi.org/f7zqb7
+  image: images/papers/10.1049iet-syb.2014.0053.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jss.2014.11.038
   title: 'LAYER: A cost-efficient mechanism to support multi-tenant database as a
     service in cloud'
@@ -2535,6 +2481,31 @@
   date: '2015-03-01'
   link: https://doi.org/gj428x
   image: images/papers/10.1016j.jss.2014.11.038.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2164-16-S3-S5
+  title: Similarity evaluation of DNA sequences based on frequent patterns and entropy
+  authors:
+  - Xiaojing Xie
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Genomics
+  date: '2015-01-29'
+  link: https://doi.org/gb3hv8
+  image: images/papers/10.11861471-2164-16-S3-S5.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2105-16-S5-S2
+  title: Exploiting topic modeling to boost metagenomic reads binning
+  authors:
+  - Ruichang Zhang
+  - Zhanzhan Cheng
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Bioinformatics
+  date: '2015-03-18'
+  link: https://doi.org/gb8w7m
+  image: images/papers/10.11861471-2105-16-S5-S2.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/srep17481
@@ -2687,6 +2658,20 @@
   image: images/papers/10.1093nargku437.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.neucom.2014.05.075
+  title: "Active learning for protein function prediction in protein\u2013protein\
+    \ interaction networks"
+  authors:
+  - Wei Xiong
+  - Luyu Xie
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Neurocomputing
+  date: '2014-12-01'
+  link: https://doi.org/g8n2kc
+  image: images/papers/10.1016j.neucom.2014.05.075.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TCBB.2013.137
   title: A New Unsupervised Binning Approach for Metagenomic Sequences Based on N-grams
     and Automatic Feature Weighting
@@ -2765,6 +2750,22 @@
   date: '2013-10-06'
   link: https://doi.org/f6pvhm
   image: images/papers/10.1093comjnlbxt106.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1089/cmb.2013.0083
+  title: "Boosting Prediction Performance of Protein\u2013Protein Interaction Hot\
+    \ Spots by Using Structural Neighborhood Properties"
+  authors:
+  - Lei Deng
+  - Jihong Guan
+  - Xiaoming Wei
+  - Yuan Yi
+  - Qiangfeng Cliff Zhang
+  - Shuigeng Zhou
+  publisher: Journal of Computational Biology
+  date: '2013-11-01'
+  link: https://doi.org/f5ftsp
+  image: images/papers/10.1089cmb.2013.0083.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1142/S0219720013300025
@@ -3170,6 +3171,66 @@
   image: images/papers/10.11861471-2105-10-426.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1080/13658816.2018.1520236
+  title: An empirical study on the intra-urban goods movement patterns using logistics
+    big data
+  authors:
+  - Pengxiang Zhao
+  - Xintao Liu
+  - Wenzhong Shi
+  - Tao Jia
+  - Wengen Li
+  - Min Chen
+  publisher: International Journal of Geographical Information Science
+  date: '2018-09-20'
+  link: https://doi.org/gfc8jq
+  image: images/papers/10.108013658816.2018.1520236.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.pmcj.2017.03.015
+  title: Exploring traffic congestion correlation from multiple data sources
+  authors:
+  - Yuqi Wang
+  - Jiannong Cao
+  - Wengen Li
+  - Tao Gu
+  - Wenzhong Shi
+  publisher: Pervasive and Mobile Computing
+  date: '2017-10-01'
+  link: https://doi.org/gch47d
+  image: images/papers/10.1016j.pmcj.2017.03.015.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3132847.3132948
+  title: Coupled Sparse Matrix Factorization for Response Time Prediction in Logistics
+    Services
+  authors:
+  - Yuqi Wang
+  - Jiannong Cao
+  - Lifang He
+  - Wengen Li
+  - Lichao Sun
+  - Philip S. Yu
+  publisher: Proceedings of the 2017 ACM on Conference on Information and Knowledge
+    Management
+  date: '2017-11-06'
+  link: https://doi.org/g8rfzg
+  image: images/papers/10.11453132847.3132948.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SMARTCOMP.2016.7501704
+  title: Mining Traffic Congestion Correlation between Road Segments on GPS Trajectories
+  authors:
+  - Yuqi Wang
+  - Jiannong Cao
+  - Wengen Li
+  - Tao Gu
+  publisher: 2016 IEEE International Conference on Smart Computing (SMARTCOMP)
+  date: '2016-05-01'
+  link: https://doi.org/g8rfzh
+  image: images/papers/10.1109SMARTCOMP.2016.7501704.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3511808.3557549
   title: An Extreme Semi-supervised Framework Based on Transformer for Network Intrusion
     Detection
@@ -3249,66 +3310,6 @@
   image: images/papers/10.1007978-3-030-59419-0_48.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1080/13658816.2018.1520236
-  title: An empirical study on the intra-urban goods movement patterns using logistics
-    big data
-  authors:
-  - Pengxiang Zhao
-  - Xintao Liu
-  - Wenzhong Shi
-  - Tao Jia
-  - Wengen Li
-  - Min Chen
-  publisher: International Journal of Geographical Information Science
-  date: '2018-09-20'
-  link: https://doi.org/gfc8jq
-  image: images/papers/10.108013658816.2018.1520236.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.pmcj.2017.03.015
-  title: Exploring traffic congestion correlation from multiple data sources
-  authors:
-  - Yuqi Wang
-  - Jiannong Cao
-  - Wengen Li
-  - Tao Gu
-  - Wenzhong Shi
-  publisher: Pervasive and Mobile Computing
-  date: '2017-10-01'
-  link: https://doi.org/gch47d
-  image: images/papers/10.1016j.pmcj.2017.03.015.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3132847.3132948
-  title: Coupled Sparse Matrix Factorization for Response Time Prediction in Logistics
-    Services
-  authors:
-  - Yuqi Wang
-  - Jiannong Cao
-  - Lifang He
-  - Wengen Li
-  - Lichao Sun
-  - Philip S. Yu
-  publisher: Proceedings of the 2017 ACM on Conference on Information and Knowledge
-    Management
-  date: '2017-11-06'
-  link: https://doi.org/g8rfzg
-  image: images/papers/10.11453132847.3132948.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/SMARTCOMP.2016.7501704
-  title: Mining Traffic Congestion Correlation between Road Segments on GPS Trajectories
-  authors:
-  - Yuqi Wang
-  - Jiannong Cao
-  - Wengen Li
-  - Tao Gu
-  publisher: 2016 IEEE International Conference on Smart Computing (SMARTCOMP)
-  date: '2016-05-01'
-  link: https://doi.org/g8rfzh
-  image: images/papers/10.1109SMARTCOMP.2016.7501704.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/TNSE.2024.3481434
   title: Limitation of Time Promotes Cooperation in Structured Collaboration Systems
   authors:
@@ -3321,7 +3322,7 @@
   - Krishnendu Chatterjee
   - "Matja\u017E Perc"
   publisher: IEEE Transactions on Network Science and Engineering
-  date: '2024-01-01'
+  date: '2025-01-01'
   link: https://doi.org/g8tbvq
   image: images/papers/10.1109TNSE.2024.3481434.jpg
   plugin: sources.py
@@ -3358,5 +3359,61 @@
   date: '2024-01-01'
   link: https://doi.org/g8tthj
   image: images/papers/10.1109TGRS.2024.3506058.jpg
+  plugin: sources.py
+  file: sources.yaml
+- title: Effective Cloud Removal for Remote Sensing Images by An Improved Mean-Reverting
+    Denoising Model with Elucidated Design Space
+  authors:
+  - Yi Liu
+  - Wengen Li
+  - Jihong Guan
+  - Shuigeng Zhou
+  - Yichao Zhang
+  publisher: 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2025-06-01'
+  image: images/papers/tmp/2025cvpryiliu.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TAI.2025.3548621
+  title: 'C<sup>2</sup>RS: Multimodal Knowledge Graph Completion with Cross-Modal
+    Consistency and Relation Semantics'
+  authors:
+  - Yulou Shu
+  - Wengen Li
+  - Jiaqi Wang
+  - Yichao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: IEEE Transactions on Artificial Intelligence
+  date: '2025-01-01'
+  link: https://doi.org/g87kw4
+  image: images/papers/10.1109TAI.2025.3548621.png
+  plugin: sources.py
+  file: sources.yaml
+- title: Semantic Prototyping with CLIP for Few-Shot Object Detection in Remote Sensing
+    Images
+  authors:
+  - Tianying Liu
+  - Shuigeng Zhou
+  - Wengen Li
+  - Yichao Zhang
+  - Jihong Guan
+  publisher: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+  date: '2025-01-01'
+  image: images/papers/tmp/2025tgrstianyingliu.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3712607
+  title: 'MVST: A Multi-View Spatial-Temporal Model for Fine-Grained Crime Prediction'
+  authors:
+  - Chang Wei
+  - Wengen Li
+  - Yichao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: ACM Transactions on Intelligent Systems and Technology
+  date: '2025-01-17'
+  link: https://doi.org/g87zcj
+  image: images/papers/10.11453712607.png
   plugin: sources.py
   file: sources.yaml
