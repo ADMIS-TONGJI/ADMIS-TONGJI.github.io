@@ -3390,7 +3390,8 @@
   image: images/papers/10.1109TAI.2025.3548621.png
   plugin: sources.py
   file: sources.yaml
-- title: Semantic Prototyping with CLIP for Few-Shot Object Detection in Remote Sensing
+- id: doi:10.1109/TGRS.2025.3550372
+  title: Semantic Prototyping With CLIP for Few-Shot Object Detection in Remote Sensing
     Images
   authors:
   - Tianying Liu
@@ -3398,9 +3399,10 @@
   - Wengen Li
   - Yichao Zhang
   - Jihong Guan
-  publisher: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
   date: '2025-01-01'
-  image: images/papers/tmp/2025tgrstianyingliu.png
+  link: https://doi.org/g9bd2d
+  image: images/papers/10.1109TGRS.2025.3550372.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3712607
@@ -3415,5 +3417,23 @@
   date: '2025-01-17'
   link: https://doi.org/g87zcj
   image: images/papers/10.11453712607.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TGRS.2025.3555634
+  title: 'LLM4HRS: LLM-based Spatio-temporal Imputation Model for Highly-sparse Remote
+    Sensing Data'
+  authors:
+  - Shuyu Wang
+  - Wengen Li
+  - Hanchen Yang
+  - Jihong Guan
+  - Xiwei Liu
+  - Yichao Zhang
+  - Rufu Qin
+  - Shuigeng Zhou
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  date: '2025-01-01'
+  link: https://doi.org/g9bd2g
+  image: images/papers/10.1109TGRS.2025.3555634.png
   plugin: sources.py
   file: sources.yaml
