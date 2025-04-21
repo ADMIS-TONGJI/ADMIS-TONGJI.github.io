@@ -3414,13 +3414,13 @@
   - Jihong Guan
   - Shuigeng Zhou
   publisher: ACM Transactions on Intelligent Systems and Technology
-  date: '2025-01-17'
+  date: '2025-04-16'
   link: https://doi.org/g87zcj
   image: images/papers/10.11453712607.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2025.3555634
-  title: 'LLM4HRS: LLM-based Spatio-temporal Imputation Model for Highly-sparse Remote
+  title: 'LLM4HRS: LLM-Based Spatiotemporal Imputation Model for Highly Sparse Remote
     Sensing Data'
   authors:
   - Shuyu Wang
