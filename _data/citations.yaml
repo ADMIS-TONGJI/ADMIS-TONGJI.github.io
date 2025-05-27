@@ -3414,13 +3414,13 @@
   - Jihong Guan
   - Shuigeng Zhou
   publisher: ACM Transactions on Intelligent Systems and Technology
-  date: '2025-01-17'
+  date: '2025-04-16'
   link: https://doi.org/g87zcj
   image: images/papers/10.11453712607.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2025.3555634
-  title: 'LLM4HRS: LLM-based Spatio-temporal Imputation Model for Highly-sparse Remote
+  title: 'LLM4HRS: LLM-Based Spatiotemporal Imputation Model for Highly Sparse Remote
     Sensing Data'
   authors:
   - Shuyu Wang
@@ -3437,14 +3437,62 @@
   image: images/papers/10.1109TGRS.2025.3555634.png
   plugin: sources.py
   file: sources.yaml
-- title: 'CorMulT: A Semi-supervised Modality Correlation-aware Multimodal Transformer
-    for Sentiment Analysis.'
+- id: doi:10.1109/TAFFC.2025.3559866
+  title: 'CorMulT: a Semi-supervised Modality Correlation-aware Multimodal Transformer
+    for Sentiment Analysis'
   authors:
   - Yangmin Li
   - Ruiqi Zhu
   - Wengen Li
-  publisher: IEEE Transactions on Affective Computing (TAFFC)
-  date: '2025-04-08'
-  image: images/papers/tmp/2025TAFFCwengenli.png
+  publisher: IEEE Transactions on Affective Computing
+  date: '2025-01-01'
+  link: https://doi.org/g9mc8x
+  image: images/papers/10.1109TAFFC.2025.3559866.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3735646
+  title: Cross-Region Graph Convolutional Network with Periodicity Shift Adaptation
+    for Wide-area SST Prediction
+  authors:
+  - Han Peng
+  - Wengen Li
+  - Chang Jin
+  - Yichao Zhang
+  - Jihong Guan
+  - Hanchen Yang
+  - Shuigeng Zhou
+  publisher: ACM Transactions on Intelligent Systems and Technology
+  date: '2025-05-13'
+  link: https://doi.org/g9mc8z
+  image: images/papers/10.11453735646.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/LGRS.2025.3563458
+  title: Spatiotemporal Attention Network for Chl-a Prediction With Sparse Multifactor
+    Observations
+  authors:
+  - Xudong Jiang
+  - Yunfan Liu
+  - Shuyu Wang
+  - Wengen Li
+  - Jihong Guan
+  publisher: IEEE Geoscience and Remote Sensing Letters
+  date: '2025-01-01'
+  link: https://doi.org/g9mc82
+  image: images/papers/10.1109LGRS.2025.3563458.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jcim.5c00577
+  title: Effective and Explainable Molecular Property Prediction by Chain-of-Thought
+    Enabled Large Language Models and Multi-Modal Molecular Information Fusion
+  authors:
+  - Chang Jin
+  - Siyuan Guo
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Journal of Chemical Information and Modeling
+  date: '2025-05-20'
+  link: https://doi.org/g9mc83
+  image: images/papers/10.1021acs.jcim.5c00577.jpg
   plugin: sources.py
   file: sources.yaml
