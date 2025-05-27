@@ -789,11 +789,23 @@
 - id: doi:10.1109/TGRS.2025.3555634
   image: images/papers/10.1109TGRS.2025.3555634.png
 
-- title: 'CorMulT: A Semi-supervised Modality Correlation-aware Multimodal Transformer for Sentiment Analysis.'
-  authors:
-  - Yangmin Li
-  - Ruiqi Zhu
-  - Wengen Li
-  publisher: IEEE Transactions on Affective Computing (TAFFC)
-  date: '2025-04-08'
-  image: images/papers/tmp/2025TAFFCwengenli.png
+# - title: 'CorMulT: A Semi-supervised Modality Correlation-aware Multimodal Transformer for Sentiment Analysis.'
+#   authors:
+#   - Yangmin Li
+#   - Ruiqi Zhu
+#   - Wengen Li
+#   publisher: IEEE Transactions on Affective Computing (TAFFC)
+#   date: '2025-04-08'
+#   image: images/papers/tmp/2025TAFFCwengenli.png
+
+- id: doi:10.1109/TAFFC.2025.3559866
+  image: images/papers/10.1109TAFFC.2025.3559866.png
+
+- id: doi:10.1145/3735646
+  image: images/papers/10.11453735646.jpg
+
+- id: doi:10.1109/LGRS.2025.3563458
+  image: images/papers/10.1109LGRS.2025.3563458.jpg
+
+- id: doi:10.1021/acs.jcim.5c00577
+  image: images/papers/10.1021acs.jcim.5c00577.jpg
