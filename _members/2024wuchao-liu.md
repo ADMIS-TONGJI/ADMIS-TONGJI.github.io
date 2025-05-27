@@ -28,7 +28,7 @@ Single-Cell Multi-Omics Sequencing Data Integration, Multimodal Data Fusion, Sen
 
 ### 教育经历/Educational Background
 - 2018~2022 同济大学 计算机科学与技术专业 本科/学士
-- 2022~2023 同济大学 电子信息 研究生/硕士
+- 2022~2023 同济大学 电子信息 研究生/硕博连读
 - 2024~至今 同济大学 计算机科学与技术专业 研究生/博士在读
 
 ### 代表性论文/Publications

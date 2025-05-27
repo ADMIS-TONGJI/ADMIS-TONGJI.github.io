@@ -1,7 +1,7 @@
 ---
 name: 李辉 (Hui Li)
 image: images/people/lihui.jpg
-role: master
+role: graduated_master
 
 aliases:
   - H. Li
@@ -12,7 +12,7 @@ links:
 ---
 
 ### 个人简介/About Me
-Hui Li received the B.Eng. degree in Computer Science and Technology from Tongji University, Shanghai, China, in 2022. He is currently pursuing a Master's degree at the Department of Computer Science and Technology, Tongji University, which he started in 2022 and is expected to complete in 2025. He is also a student member of the China Computer Federation (CCF). During his Master’s studies, he has published two papers and holds an academic patent.
+Hui Li received the B.Eng. degree in Computer Science and Technology from Tongji University, Shanghai, China, in 2022. He received the Master's degree in Computer Science and Technology from Tongji University, Shanghai, China, in 2025. He is also a student member of the China Computer Federation (CCF). During his Master’s studies, he has published two papers and holds an academic patent.
 
 ### 研究方向/Research Interests
 Spatiotemporal Anomaly Detection
@@ -23,7 +23,7 @@ Spatiotemporal Anomaly Detection
 
 ### 教育经历/Educational Background
 - 2018~2022 同济大学 计算机科学与技术专业 本科/学士
-- 2022~至今 同济大学 计算机科学与技术专业 研究生/硕士在读
+- 2022~2025 同济大学 计算机科学与技术专业 研究生/硕士
 
 ### 所获奖项/Awards
 

@@ -1,7 +1,7 @@
 ---
 name: 孔令百 (Lingbai Kong)
 image: images/people/konglingbai.jpg
-role: master
+role: graduated_master
 
 aliases:
   - L. Kong
@@ -14,7 +14,7 @@ links:
 
 ### 个人简介/About Me
 Lingbai Kong received the Bachelor's degree from Tongji University, Shanghai, China, in 2022.
-He is currently working toward the M.Sc. degree at the School of Computer Science and Technology, Tongji University.
+He received the Master's degree in Computer Science and Technology from Tongji University, Shanghai, China, in 2025. 
 His research interests include spatio-temporal data mining, interpretability and causal discovery.
 
 ### 研究方向/Research Interests
@@ -25,7 +25,7 @@ Spatio-temporal data mining, Interpretability, and Causal discovery.
 
 ### 教育经历/Educational Background
 - 2018~2022 同济大学 计算机科学与技术专业 本科/学士
-- 2022~2025 同济大学 计算机科学与技术专业 研究生/硕士在读
+- 2022~2025 同济大学 计算机科学与技术专业 研究生/硕士
 
 ### 所获奖项/Awards
 

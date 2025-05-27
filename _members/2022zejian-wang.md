@@ -1,7 +1,7 @@
 ---
 name: 王泽鉴 (Zejian Wang)
 image: images/people/wangzejian.png
-role: master
+role: graduated_master
 
 aliases:
   - Z. Wang
@@ -13,14 +13,14 @@ links:
 ---
 
 ### 个人简介/About Me
-Zejian Wang received the B.Eng. degree in Computer Science and Technology from Tongji University, Shanghai, China, in 2022. He is currently pursuing a Master's degree at the Department of Computer Science and Technology, Tongji University, which he started in 2022 and is expected to complete in 2025. He is also a student member of the China Computer Federation (CCF).
+Zejian Wang received the B.Eng. degree in Computer Science and Technology from Tongji University, Shanghai, China, in 2022. He received the Master's degree in Computer Science and Technology from Tongji University, Shanghai, China, in 2025. He is also a student member of the China Computer Federation (CCF).
 
 ### 研究方向/Research Interests
 Information Diffusion Prediction, LLM-aided Graph Pruning, LLM-enhanced Topic Modeling
 
 ### 教育经历/Educational Background
 - 2018~2022 同济大学 计算机科学与技术专业 本科/学士
-- 2022~至今 同济大学 计算机科学与技术专业 研究生/硕士在读
+- 2022~2025 同济大学 计算机科学与技术专业 研究生/硕士
 
 ### 所获奖项/Awards
 

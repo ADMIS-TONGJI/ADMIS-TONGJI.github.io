@@ -1,7 +1,7 @@
 ---
 name: 蒋旭东 (Xudong Jiang)
 image: images/people/jiangxudong.jpg
-role: master
+role: phd
 
 aliases:
   - X. Jiang
@@ -13,8 +13,7 @@ links:
 ---
 
 ### 个人简介/About Me
-Xudong Jiang received the bachelor’s degree in computer science from Northeastern University, Shenyang, China, in 2023. He is currently working toward the master’s degree in computer science with the Department of Computer Science and Technol
-ogy, Tongji University. His research interests include spatio-temporal data analysis and deep learning. He is also a student member of the China Computer Federation (CCF).
+Xudong Jiang received the bachelor’s degree in computer science from Northeastern University, Shenyang, China, in 2023. He is currently working toward the Ph.D. degree degree in computer science with the Department of Computer Science and Technology, Tongji University. His research interests include spatio-temporal data analysis and deep learning. He is also a student member of the China Computer Federation (CCF).
 
 ### 研究方向/Research Interests
 Remote Sensing Data Processing, Spatio-temporal Data Analysis, Spatial–temporal Data Prediction, and Deep Learning.
@@ -26,5 +25,6 @@ Remote Sensing Data Processing, Spatio-temporal Data Analysis, Spatial–tempora
 
 ### 教育经历/Educational Background
 - 2019~2023 东北大学 计算机科学与技术专业 本科/学士
-- 2023~至今 同济大学 计算机科学与技术专业 研究生/硕士在读
+- 2023~2025 同济大学 计算机科学与技术专业 研究生/硕博连读
+- 2025~至今 同济大学 计算机科学与技术专业 研究生/博士在读
 

@@ -1,7 +1,7 @@
 ---
 name: 王淑玉 (Shuyu Wang)
 image: images/people/wangshuyu.jpg
-role: phd
+role: graduated_phd
 
 aliases:
   - S. Wang
@@ -14,7 +14,7 @@ links:
 
 ### 个人简介/About Me
 Shuyu Wang received the master’s degree in computer science and technology from China University of Petroleum, Qingdao, Shandong, China, in 2021.
-She is currently pursuing the Ph.D. degree with the Department of Computer Science and Technology, Tongji University, Shanghai, China. Her is also a student member of the China Computer Federation (CCF).
+She received the Ph.D. degree with the Department of Computer Science and Technology, Tongji University, Shanghai, China, in 2025. Her is also a student member of the China Computer Federation (CCF).
 
 ### 研究方向/Research Interests
 Remote Sensing Data Processing, Spatio-temporal Data Analysis, Spatial–temporal Data imputation, and Deep Learning.
@@ -27,7 +27,7 @@ Remote Sensing Data Processing, Spatio-temporal Data Analysis, Spatial–tempora
 ### 教育经历/Educational Background
 - 2014~2018 山东女子学院 计算机科学与技术专业 本科/学士
 - 2018~2021 中国石油大学（华东） 计算机科学与技术专业 研究生/硕士
-- 2021~至今 同济大学 计算机科学与技术专业 研究生/博士在读
+- 2021~2025 同济大学 计算机科学与技术专业 研究生/博士
 
 ### 所获奖项/Awards
 
