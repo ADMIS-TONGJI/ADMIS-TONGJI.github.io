@@ -1,7 +1,7 @@
 ---
 name: 王淑玉 (Shuyu Wang)
 image: images/people/wangshuyu.jpg
-role: graduated_phd
+role: graduated_master
 
 aliases:
   - S. Wang
