@@ -1,7 +1,7 @@
 ---
 name: 刘毅 (Yi Liu)
 image: images/people/liuyi.jpg
-role: master
+role: current_master
 
 aliases:
   - Y. Liu

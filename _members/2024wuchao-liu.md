@@ -1,7 +1,7 @@
 ---
 name: 刘武超 (Wuchao Liu)
 image: images/people/liuwuchao.jpg
-role: phd
+role: current_phd
 
 aliases:
   - W. Liu

@@ -1,7 +1,7 @@
 ---
 name: 张铭锐 (Mingrui Zhang)
 image: images/people/zhangmingrui.jpg
-role: master
+role: current_master
 
 aliases:
   - M.R. Zhang

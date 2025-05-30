@@ -1,7 +1,7 @@
 ---
 name: 彭瀚 (Han Peng)
 image: images/people/penghan.jpg
-role: phd
+role: current_phd
 
 aliases:
   - H. Peng

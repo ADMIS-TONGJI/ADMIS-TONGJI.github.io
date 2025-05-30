@@ -1,7 +1,7 @@
 ---
 name: 王语嘉 (Yujia Wang)
 image: images/people/wangyujia.jpg
-role: master
+role: current_master
 
 aliases:
   - Y. Wang

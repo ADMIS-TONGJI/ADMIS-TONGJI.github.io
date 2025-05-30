@@ -1,7 +1,7 @@
 ---
 name: 陈凌锐 (Lingrui Chen)
 image: images/people/chenlingrui.jpg
-role: master
+role: current_master
 
 aliases:
  - Lingrui Chen

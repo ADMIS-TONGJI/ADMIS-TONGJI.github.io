@@ -1,7 +1,7 @@
 ---
 name: 刘凌诚 (Lingcheng Liu)
 image: images/people/liulingcheng.jpg
-role: phd
+role: current_phd
 
 aliases:
   - L.C. Liu

@@ -1,7 +1,7 @@
 ---
 name: 程瑞真 (Ruizhen Cheng)
 image: images/people/chengruizhen.jpg
-role: master
+role: current_master
 
 aliases:
  - Ruizhen Chen

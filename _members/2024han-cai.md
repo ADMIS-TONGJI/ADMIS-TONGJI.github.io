@@ -1,7 +1,7 @@
 ---
 name: 蔡涵 (Han Cai)
 image: images/people/caihan.jpg
-role: phd
+role: current_phd
 
 aliases:
   - H. Cai

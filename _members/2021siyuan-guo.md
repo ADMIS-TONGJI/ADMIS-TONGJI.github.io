@@ -1,7 +1,7 @@
 ---
 name: 郭思远 (Siyuan Guo)
 image: images/people/guosiyuan.jpg
-role: phd
+role: current_phd
 
 aliases:
   - S. Guo

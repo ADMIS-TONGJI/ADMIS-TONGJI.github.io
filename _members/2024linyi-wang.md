@@ -1,7 +1,7 @@
 ---
 name: 王林一 (Linyi Wang)
 image: images/people/wanglinyi.jpg
-role: master
+role: current_master
 
 aliases:
   - L. Wang

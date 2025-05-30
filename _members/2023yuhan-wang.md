@@ -1,7 +1,7 @@
 ---
 name: 汪宇晗 (Yuhan Wang)
 image: images/people/wangyuhan.jpg
-role: master
+role: current_master
 
 aliases:
  - Yuhan Wang

@@ -1,7 +1,7 @@
 ---
 name: 蔡依芳 (Yifang Cai)
 image: images/people/caiyifang.jpg
-role: phd
+role: current_phd
 
 aliases:
   - Y. Cai

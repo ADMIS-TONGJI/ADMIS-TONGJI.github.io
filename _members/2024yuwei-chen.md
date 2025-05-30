@@ -1,7 +1,7 @@
 ---
 name: 陈雨微 (Yuwei Chen)
 image: images/people/chenyuwei.jpg
-role: master
+role: current_master
 
 aliases:
   - Y. Chen

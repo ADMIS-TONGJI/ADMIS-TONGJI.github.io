@@ -1,7 +1,7 @@
 ---
 name: Diallo Hamadoun
 image: images/people/diallohamadoun.jpg
-role: master
+role: current_master
 
 aliases:
   - Diallo Hamadoun

@@ -1,7 +1,7 @@
 ---
 name: 王家祺 (Jiaqi Wang)
 image: images/people/wangjiaqi.jpg
-role: phd
+role: current_phd
 
 aliases:
   - J. Wang

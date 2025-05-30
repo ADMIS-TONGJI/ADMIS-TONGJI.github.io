@@ -1,7 +1,7 @@
 ---
 name: 俞舜宝 (Yii Shern Poh)
 image: images/people/yiishernpoh.jpg
-role: master
+role: current_master
 
 aliases:
   - Yii Shern Poh

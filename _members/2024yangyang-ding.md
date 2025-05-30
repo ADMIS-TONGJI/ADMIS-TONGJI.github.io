@@ -1,7 +1,7 @@
 ---
 name: 丁洋洋 (Yangyang Ding)
 image: images/people/dingyangyang.jpg
-role: master
+role: current_master
 
 aliases:
   - Y.Y. Ding

@@ -1,7 +1,7 @@
 ---
 name: 金唱 (Chang Jin)
 image: images/people/jinchang.jpg
-role: master
+role: current_master
 
 aliases:
   - C. Jin

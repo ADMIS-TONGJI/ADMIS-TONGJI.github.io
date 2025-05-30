@@ -1,7 +1,7 @@
 ---
 name: 彭俊熙 (Junxi Peng)
 image: images/people/pengjunxi.jpg
-role: master
+role: current_master
 
 aliases:
   - J. Peng

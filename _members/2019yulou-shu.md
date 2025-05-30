@@ -1,7 +1,7 @@
 ---
 name: 叔宇楼 (Yulou Shu)
 image: images/people/shuyulou.jpg
-role: phd
+role: current_phd
 
 aliases:
   - Y. Shu

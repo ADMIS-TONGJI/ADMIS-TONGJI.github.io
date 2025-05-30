@@ -18,11 +18,11 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
-phd:
+current_phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-master:
+current_master:
   icon: fa-solid fa-user-graduate
   description: Master Student
 

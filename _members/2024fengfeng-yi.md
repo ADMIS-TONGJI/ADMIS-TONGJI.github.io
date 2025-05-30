@@ -1,7 +1,7 @@
 ---
 name: 宜锋锋 (Fengfeng Yi)
 image: images/people/yifengfeng.jpg
-role: master
+role: current_master
 
 aliases:
   - F. Yi

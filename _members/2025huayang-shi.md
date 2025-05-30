@@ -1,7 +1,7 @@
 ---
 name: 施华阳 (Huayang Shi)
 image: images/people/shihuayang.jpg
-role: phd
+role: current_phd
 
 aliases:
   - H. Shi

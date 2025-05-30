@@ -1,7 +1,7 @@
 ---
 name: 蒋明敏 (Mingmin Jiang)
 image: images/people/jiangmingmin.jpg
-role: phd
+role: current_phd
 
 aliases:
   - M. Jiang

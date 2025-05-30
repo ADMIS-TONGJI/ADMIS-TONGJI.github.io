@@ -1,7 +1,7 @@
 ---
 name: 马嘉 (Jia Ma)
 image: images/people/majia.jpg
-role: master
+role: current_master
 
 aliases:
   - J. Ma

@@ -1,7 +1,7 @@
 ---
 name: 蒋旭东 (Xudong Jiang)
 image: images/people/jiangxudong.jpg
-role: phd
+role: current_phd
 
 aliases:
   - X. Jiang

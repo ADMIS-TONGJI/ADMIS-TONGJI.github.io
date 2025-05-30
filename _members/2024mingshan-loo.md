@@ -1,7 +1,7 @@
 ---
 name: 卢明珊 (Loo Ming Shan)
 image: images/people/loomingshan.jpg
-role: master
+role: current_master
 
 aliases:
   - M.S. LOO
