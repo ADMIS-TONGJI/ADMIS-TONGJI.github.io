@@ -26,6 +26,14 @@ master:
   icon: fa-solid fa-user-graduate
   description: Master Student
 
+graduated_phd:
+  icon: fa-solid fa-graduation-cap
+  description: Graduated PhD Student
+
+graduated_master:
+  icon: fa-solid fa-user-graduate
+  description: Graduated Master Student
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer
