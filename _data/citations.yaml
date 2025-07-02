@@ -3496,3 +3496,67 @@
   image: images/papers/10.1021acs.jcim.5c00577.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.neucom.2025.130509
+  title: Cross-trajectory spatiotemporal fusion for user identity linkage
+  authors:
+  - Yue Yang
+  - Yichao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  - Wengen Li
+  publisher: Neurocomputing
+  date: '2025-10-01'
+  link: https://doi.org/g9r3zp
+  image: 10.1016j.neucom.2025.130509.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S0219720025500064
+  title: 'M<sup>3</sup>-20M: A large-scale multi-modal molecule dataset for AI-driven
+    drug design and discovery'
+  authors:
+  - Siyuan Guo
+  - Lexuan Wang
+  - Chang Jin
+  - Jinxian Wang
+  - Han Peng
+  - Huayang Shi
+  - Wengen Li
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Journal of Bioinformatics and Computational Biology
+  date: '2025-04-01'
+  link: https://doi.org/g9r3zq
+  image: images/papers/10.1142S0219720025500064.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3745029
+  title: 'Raker: A Relation-aware Knowledge Reasoning Model for Inductive Relation
+    Prediction'
+  authors:
+  - Jiaqi Wang
+  - Wengen Li
+  - Yulou Shu
+  - Jihong Guan
+  - Yichao Zhang
+  - Shuigeng Zhou
+  publisher: ACM Transactions on Knowledge Discovery from Data
+  date: '2025-06-20'
+  link: https://doi.org/g9r3zr
+  image: images/papers/10.11453745029.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/rs17132117
+  title: "PR-CLIP: Cross-Modal Positional Reconstruction for Remote Sensing Image\u2013\
+    Text Retrieval"
+  authors:
+  - Jihong Guan
+  - Yulou Shu
+  - Wengen Li
+  - Zihan Song
+  - Yichao Zhang
+  publisher: Remote Sensing
+  date: '2025-06-20'
+  link: https://doi.org/g9r3zs
+  image: images/papers/10.3390rs17132117.jpg
+  plugin: sources.py
+  file: sources.yaml
