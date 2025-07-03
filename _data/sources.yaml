@@ -802,5 +802,5 @@
 - id: doi:10.1145/3745029
   image: images/papers/10.11453745029.jpg
 
-- id: doi:10.3390/rs17132117
-  image: images/papers/10.3390rs17132117.jpg
+# - id: doi:10.3390/rs17132117
+#   image: images/papers/10.3390rs17132117.jpg
