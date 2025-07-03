@@ -337,31 +337,24 @@
 - id: doi:10.1016/j.neucom.2015.11.107
   image: images/papers/10.1016j.neucom.2015.11.107.jpg
 
-# Recursively Learning Causal Structures Using Regression-Based Conditional Independence Test
 - id: doi:10.1609/aaai.v33i01.33013108 
   image: images/papers/10.1109TAI.2024.3459857.png
 
-# Simple Is Better: A Global Semantic Consistency Based End-to-End Framework for Effective Zero-Shot Learning.
 - id: doi:10.1007/978-3-030-29908-8_8
   image: images/papers/10.1007978-3-030-29908-8_8.png
 
-# Learning Competitive and Discriminative Reconstructions for Anomaly Detection.
 - id: doi:10.1609/aaai.v33i01.33015167
   image: images/papers/10.1109TPAMI.2024.3435503.png
 
-# Versatile Multiple Choice Learning and Its Application to Vision Computing. 
 - id: doi:10.1109/CVPR.2019.00651
   image: images/papers/10.1109CVPR.2019.00651.png
 
-# Measuring Conditional Independence by Independent Residuals: Theoretical Results and Application in Causal Discovery.
 - id: doi:10.1609/aaai.v32i1.11555
   image: images/papers/10.1609aaai.v32i1.11555.png
 
-# Identification of cancersubtypes from single-cell RNA-seq data using a consensus clustering method.
 - id: doi:10.1186/s12920-018-0433-z
   image: images/papers/10.1186s12920-018-0433-z.png
 
-# Classifying Early and LateMild Cognitive Impairment Stages of Alzheimer's Disease by Fusing DefaultMode Networks Extracted with Multiple Seeds. 
 - id: doi:10.1186/s12859-018-2528-0
   image: images/papers/10.1186s12859-018-2528-0.png
 
