@@ -3545,18 +3545,3 @@
   image: images/papers/10.11453745029.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.3390/rs17132117
-  title: "PR-CLIP: Cross-Modal Positional Reconstruction for Remote Sensing Image\u2013\
-    Text Retrieval"
-  authors:
-  - Jihong Guan
-  - Yulou Shu
-  - Wengen Li
-  - Zihan Song
-  - Yichao Zhang
-  publisher: Remote Sensing
-  date: '2025-06-20'
-  link: https://doi.org/g9r3zs
-  image: images/papers/10.3390rs17132117.jpg
-  plugin: sources.py
-  file: sources.yaml
