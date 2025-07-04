@@ -797,10 +797,10 @@
   image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEgy1i30ohnjmaej31g50hv794.jpg
 
 - id: doi:10.1142/S0219720025500064
-  image: images/papers/10.1142S0219720025500064.jpg
+  image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/large/008K2OkEgy1i30ohqubjij310q0beaby.jpg
 
 - id: doi:10.1145/3745029
-  image: images/papers/10.11453745029.jpg
+  image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEgy1i30ohuddfpj31700lwjvq.jpg
 
-# - id: doi:10.3390/rs17132117
-#   image: images/papers/10.3390rs17132117.jpg
+- id: doi:10.3390/rs17132117
+  image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEgy1i30ohxn2k8j31ix0u0wls.jpg
