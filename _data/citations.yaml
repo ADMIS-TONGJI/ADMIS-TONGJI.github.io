@@ -3526,7 +3526,7 @@
   publisher: Journal of Bioinformatics and Computational Biology
   date: '2025-04-01'
   link: https://doi.org/g9r3zq
-  image: images/papers/10.1142S0219720025500064.jpg
+  image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/large/008K2OkEgy1i30ohqubjij310q0beaby.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3745029
@@ -3542,6 +3542,21 @@
   publisher: ACM Transactions on Knowledge Discovery from Data
   date: '2025-06-20'
   link: https://doi.org/g9r3zr
-  image: images/papers/10.11453745029.jpg
+  image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEgy1i30ohuddfpj31700lwjvq.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/rs17132117
+  title: "PR-CLIP: Cross-Modal Positional Reconstruction for Remote Sensing Image\u2013\
+    Text Retrieval"
+  authors:
+  - Jihong Guan
+  - Yulou Shu
+  - Wengen Li
+  - Zihan Song
+  - Yichao Zhang
+  publisher: Remote Sensing
+  date: '2025-06-20'
+  link: https://doi.org/g9r3zs
+  image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEgy1i30ohxn2k8j31ix0u0wls.jpg
   plugin: sources.py
   file: sources.yaml
