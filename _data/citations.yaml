@@ -3339,7 +3339,7 @@
   publisher: Ocean Engineering
   date: '2024-12-01'
   link: https://doi.org/g8tbvr
-  image: images/papers/10.1016j.oceaneng.2024.119530.jpg
+  image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/large/008K2OkEly1i31ygpam2lj30jr0e5n00.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2024.3506058
@@ -3358,7 +3358,7 @@
   publisher: IEEE Transactions on Geoscience and Remote Sensing
   date: '2024-01-01'
   link: https://doi.org/g8tthj
-  image: images/papers/10.1109TGRS.2024.3506058.jpg
+  image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i31yglviz6j31r50u0tgz.jpg
   plugin: sources.py
   file: sources.yaml
 - title: Effective Cloud Removal for Remote Sensing Images by An Improved Mean-Reverting
@@ -3371,7 +3371,7 @@
   - Yichao Zhang
   publisher: 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   date: '2025-06-01'
-  image: images/papers/tmp/2025cvpryiliu.png
+  image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEly1i31yg2wxc7j31ii0u0n4y.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TAI.2025.3548621
@@ -3387,7 +3387,7 @@
   publisher: IEEE Transactions on Artificial Intelligence
   date: '2025-01-01'
   link: https://doi.org/g87kw4
-  image: images/papers/10.1109TAI.2025.3548621.png
+  image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i31yghapqxj313a0u0jxh.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2025.3550372
@@ -3402,7 +3402,7 @@
   publisher: IEEE Transactions on Geoscience and Remote Sensing
   date: '2025-01-01'
   link: https://doi.org/g9bd2d
-  image: images/papers/10.1109TGRS.2025.3550372.png
+  image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEgy1i31ybi8airj31c60u0tfa.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3712607
@@ -3416,7 +3416,7 @@
   publisher: ACM Transactions on Intelligent Systems and Technology
   date: '2025-04-16'
   link: https://doi.org/g87zcj
-  image: images/papers/10.11453712607.png
+  image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEly1i31ygdtxcqj318l0u0n2r.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2025.3555634
@@ -3434,7 +3434,7 @@
   publisher: IEEE Transactions on Geoscience and Remote Sensing
   date: '2025-01-01'
   link: https://doi.org/g9bd2g
-  image: images/papers/10.1109TGRS.2025.3555634.png
+  image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/large/008K2OkEgy1i31yb8fuy2j31yj0u07cu.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TAFFC.2025.3559866
@@ -3447,7 +3447,7 @@
   publisher: IEEE Transactions on Affective Computing
   date: '2025-01-01'
   link: https://doi.org/g9mc8x
-  image: images/papers/10.1109TAFFC.2025.3559866.png
+  image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEgy1i31yb1y6glj30t20n278v.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3735646
@@ -3464,7 +3464,7 @@
   publisher: ACM Transactions on Intelligent Systems and Technology
   date: '2025-05-13'
   link: https://doi.org/g9mc8z
-  image: images/papers/10.11453735646.jpg
+  image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEgy1i31yaygv3rj30n40gwq5a.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/LGRS.2025.3563458
@@ -3479,7 +3479,7 @@
   publisher: IEEE Geoscience and Remote Sensing Letters
   date: '2025-01-01'
   link: https://doi.org/g9mc82
-  image: images/papers/10.1109LGRS.2025.3563458.jpg
+  image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEgy1i31yatvdjgj30s90ft423.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.jcim.5c00577
@@ -3493,7 +3493,7 @@
   publisher: Journal of Chemical Information and Modeling
   date: '2025-05-20'
   link: https://doi.org/g9mc83
-  image: images/papers/10.1021acs.jcim.5c00577.jpg
+  image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/mw690/008K2OkEgy1i30oi0foohj30n409iaax.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2025.130509
