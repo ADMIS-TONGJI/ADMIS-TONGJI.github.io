@@ -3344,7 +3344,8 @@
   image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i31yglviz6j31r50u0tgz.jpg
   plugin: sources.py
   file: sources.yaml
-- title: Effective Cloud Removal for Remote Sensing Images by An Improved Mean-Reverting
+- id: doi:10.48550/arXiv.2503.23717
+  title: Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting
     Denoising Model with Elucidated Design Space
   authors:
   - Yi Liu
@@ -3352,8 +3353,9 @@
   - Jihong Guan
   - Shuigeng Zhou
   - Yichao Zhang
-  publisher: 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2025-06-01'
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g9sfxg
   image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEly1i31yg2wxc7j31ii0u0n4y.jpg
   plugin: sources.py
   file: sources.yaml
