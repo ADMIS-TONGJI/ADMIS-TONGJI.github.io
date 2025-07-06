@@ -11,7 +11,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Effective Cloud Removal for Remote Sensing Images by An Improved Mean-Reverting Denoising Model with Elucidated Design Space" style="rich" %}
+{% include citation.html lookup="doi:10.48550/arXiv.2503.23717" style="rich" %}
 
 {% include section.html %}
 
