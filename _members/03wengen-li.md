@@ -1,6 +1,6 @@
 ---
 name: 李文根 (Wengen Li)
-image: images/people/liwengen.jpg
+image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEly1i34324l4vjj30ho0mi0tg.jpg
 role: assocprof
 affiliation: Tongji University
 aliases:

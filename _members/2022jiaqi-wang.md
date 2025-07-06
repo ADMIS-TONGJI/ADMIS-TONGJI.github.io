@@ -1,6 +1,6 @@
 ---
 name: 王家祺 (Jiaqi Wang)
-image: images/people/wangjiaqi.jpg
+image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEly1i3435tetb6j30qo0zkjtc.jpg
 role: current_phd
 
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: 杨涵晨 (Hanchen Yang)
-image: images/people/yanghanchen.jpg
+image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/large/008K2OkEly1i3439r4z8nj30b40fk3z1.jpg
 role: current_phd
 
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: 张铭锐 (Mingrui Zhang)
-image: images/people/zhangmingrui.jpg
+image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i3436b5kp5j30mx0sfgmo.jpg
 role: current_master
 
 aliases:

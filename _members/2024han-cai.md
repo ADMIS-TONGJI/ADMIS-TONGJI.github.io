@@ -1,6 +1,6 @@
 ---
 name: 蔡涵 (Han Cai)
-image: images/people/caihan.jpg
+image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEly1i3435nrutwj30g00k0q4h.jpg
 role: current_phd
 
 aliases:

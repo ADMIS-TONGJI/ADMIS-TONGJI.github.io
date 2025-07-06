@@ -1,6 +1,6 @@
 ---
 name: 郭思远 (Siyuan Guo)
-image: images/people/guosiyuan.jpg
+image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEly1i34397sa5ej30sf0zkac7.jpg
 role: current_phd
 
 aliases:

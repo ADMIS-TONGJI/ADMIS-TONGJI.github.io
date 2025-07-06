@@ -1,6 +1,6 @@
 ---
 name: 刘凌诚 (Lingcheng Liu)
-image: images/people/liulingcheng.jpg
+image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEly1i34334hq7qj30mz0vijtd.jpg
 role: current_phd
 
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: 杨玥 (Yue Yang)
-image: images/people/yangyue.png
+image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i34321w9wyj30u012ddkm.jpg
 role: current_phd
 
 aliases:

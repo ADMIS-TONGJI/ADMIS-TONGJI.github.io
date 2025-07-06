@@ -1,6 +1,6 @@
 ---
 name: 刘武超 (Wuchao Liu)
-image: images/people/liuwuchao.jpg
+image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEly1i3439k244mj30dc0hsq3j.jpg
 role: current_phd
 
 aliases:

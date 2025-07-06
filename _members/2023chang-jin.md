@@ -1,6 +1,6 @@
 ---
 name: 金唱 (Chang Jin)
-image: images/people/jinchang.jpg
+image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEly1i3439al6axj30kt0sgq48.jpg
 role: current_master
 
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: 蒋旭东 (Xudong Jiang)
-image: images/people/jiangxudong.jpg
+image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/large/008K2OkEly1i3435woy2qj30u013z0wr.jpg
 role: current_phd
 
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: 施华阳 (Huayang Shi)
-image: images/people/shihuayang.jpg
+image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i3434n67djj30mr0sgjug.jpg
 role: current_phd
 
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: 马嘉 (Jia Ma)
-image: images/people/majia.jpg
+image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i3432exo69j30u012677a.jpg
 role: current_master
 
 aliases:

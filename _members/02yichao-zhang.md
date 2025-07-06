@@ -1,6 +1,6 @@
 ---
 name: 张毅超 (Yichao Zhang)
-image: images/people/zhangyichao.jpg
+image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i3437b0u3bj30k00qodhi.jpg
 role: assocprof
 affiliation: Tongji University
 aliases:

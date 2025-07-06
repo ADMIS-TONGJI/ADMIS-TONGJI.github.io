@@ -1,6 +1,6 @@
 ---
 name: 宜锋锋 (Fengfeng Yi)
-image: images/people/yifengfeng.jpg
+image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i3438yb60lj30bq0gfdgc.jpg
 role: current_master
 
 aliases:

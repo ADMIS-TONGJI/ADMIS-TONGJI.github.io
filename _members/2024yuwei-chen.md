@@ -1,6 +1,6 @@
 ---
 name: 陈雨微 (Yuwei Chen)
-image: images/people/chenyuwei.jpg
+image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i3436jibmfj30k00qomyb.jpg
 role: current_master
 
 aliases:

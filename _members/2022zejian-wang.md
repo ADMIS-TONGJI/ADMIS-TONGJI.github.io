@@ -1,6 +1,6 @@
 ---
 name: 王泽鉴 (Zejian Wang)
-image: images/people/wangzejian.png
+image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i3436f1oqqj30dc0hswev.jpg
 role: graduated_master
 
 aliases:

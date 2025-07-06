@@ -1,6 +1,6 @@
 ---
 name: 卢明珊 (Loo Ming Shan)
-image: images/people/loomingshan.jpg
+image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEly1i34371ugy5j30k00qot9t.jpg
 role: current_master
 
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: 彭俊熙 (Junxi Peng)
-image: images/people/pengjunxi.jpg
+image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEly1i3432uqw3tj30m80m8751.jpg
 role: current_master
 
 aliases:

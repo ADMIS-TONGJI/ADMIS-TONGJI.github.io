@@ -1,6 +1,6 @@
 ---
 name: 彭瀚 (Han Peng)
-image: images/people/penghan.jpg
+image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEly1i34375y1wsj30k00qo3zp.jpg
 role: current_phd
 
 aliases:

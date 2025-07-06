@@ -1,6 +1,6 @@
 ---
 name: 宋子涵 (Zihan Song)
-image: images/people/songzihan.jpg
+image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEly1i343687y7vj30m60sf75e.jpg
 role: current_master
 
 aliases:

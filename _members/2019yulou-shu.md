@@ -1,6 +1,6 @@
 ---
 name: 叔宇楼 (Yulou Shu)
-image: images/people/shuyulou.jpg
+image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/large/008K2OkEly1i34394c82dj30mb0viq55.jpg
 role: current_phd
 
 aliases:
