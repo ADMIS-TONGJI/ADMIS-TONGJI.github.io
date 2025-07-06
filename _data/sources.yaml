@@ -749,8 +749,8 @@
 - id: doi:10.1007/978-3-030-59419-0_48
   image: images/papers/10.1007978-3-030-59419-0_48.png
 
-- id: doi:10.1109/TNSE.2024.3481434
-  image: images/papers/10.1109TNSE.2024.3481434.jpg
+# - id: doi:10.1109/TNSE.2024.3481434
+#   image: images/papers/10.1109TNSE.2024.3481434.jpg
   
 - id: doi:10.1016/j.oceaneng.2024.119530
   image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/large/008K2OkEly1i31ygpam2lj30jr0e5n00.jpg
