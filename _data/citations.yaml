@@ -3440,21 +3440,21 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TAFFC.2025.3559866
-  title: 'CorMulT: a Semi-supervised Modality Correlation-aware Multimodal Transformer
+  title: 'CorMulT: A Semi-Supervised Modality Correlation-Aware Multimodal Transformer
     for Sentiment Analysis'
   authors:
   - Yangmin Li
   - Ruiqi Zhu
   - Wengen Li
   publisher: IEEE Transactions on Affective Computing
-  date: '2025-01-01'
+  date: '2025-07-01'
   link: https://doi.org/g9mc8x
   image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEgy1i31yb1y6glj30t20n278v.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3735646
   title: Cross-Region Graph Convolutional Network with Periodicity Shift Adaptation
-    for Wide-area SST Prediction
+    for Wide-Area SST Prediction
   authors:
   - Han Peng
   - Wengen Li
@@ -3464,7 +3464,7 @@
   - Hanchen Yang
   - Shuigeng Zhou
   publisher: ACM Transactions on Intelligent Systems and Technology
-  date: '2025-05-13'
+  date: '2025-07-22'
   link: https://doi.org/g9mc8z
   image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEgy1i31yaygv3rj30n40gwq5a.jpg
   plugin: sources.py
@@ -3532,7 +3532,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3745029
-  title: 'Raker: A Relation-aware Knowledge Reasoning Model for Inductive Relation
+  title: 'Raker: A Relation-Aware Knowledge Reasoning Model for Inductive Relation
     Prediction'
   authors:
   - Jiaqi Wang
@@ -3542,7 +3542,7 @@
   - Yichao Zhang
   - Shuigeng Zhou
   publisher: ACM Transactions on Knowledge Discovery from Data
-  date: '2025-06-20'
+  date: '2025-08-21'
   link: https://doi.org/g9r3zr
   image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEgy1i30ohuddfpj31700lwjvq.jpg
   plugin: sources.py
