@@ -3647,3 +3647,20 @@
   image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/mw690/008K2OkEly1i6pu6hk5umj30yy0fudjm.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/TGRS.2025.3624051
+  title: 'STDMamba: Spatio-Temporal Decomposition Mamba for Long-Term Fine-Grained
+    SST Prediction'
+  authors:
+  - Xudong Jiang
+  - Shuyu Wang
+  - Wengen Li
+  - Hanchen Yang
+  - Jihong Guan
+  - Yichao Zhang
+  - Shuigeng Zhou
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  date: '2025-01-01'
+  link: https://doi.org/g974mr
+  image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/mw690/008K2OkEly1i6pyfknw8jj313s0fe0vx.jpg
+  plugin: sources.py
+  file: sources.yaml
