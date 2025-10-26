@@ -3562,3 +3562,88 @@
   image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEgy1i30ohxn2k8j31ix0u0wls.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1145/3748259
+  title: 'Spatial-Temporal Data Mining for Ocean Science: Data, Methodologies and
+    Opportunities'
+  authors:
+  - Hanchen Yang
+  - Jiannong Cao
+  - Wengen Li
+  - Shuyu Wang
+  - Hui Li
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: ACM Transactions on Knowledge Discovery from Data
+  date: '2025-08-21'
+  link: https://doi.org/g974hd
+  image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/mw690/008K2OkEly1i6pu6u1p9mj30a106hjrx.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3748658
+  title: 'Ensuring Pre-Fusion Modality Consistency: A New Approach to Multimodal Sentiment
+    Detection'
+  authors:
+  - Yulou Shu
+  - Wengen Li
+  - Yu-Ping Ruan
+  - Wuchao Liu
+  - Yichao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: ACM Transactions on Intelligent Systems and Technology
+  date: '2025-10-16'
+  link: https://doi.org/g974hf
+  image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/mw690/008K2OkEly1i6pu6s4er0j30hs0agmyw.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TAI.2025.3596930
+  title: Topic-aware Multi-heterogeneous Graph Neural Network for Predicting the Next
+    Participant in Information Cascades
+  authors:
+  - Yichao Zhang
+  - Zejian Wang
+  - Guanghui Wen
+  - Jihong Guan
+  - Shuigeng Zhou
+  - Wengen Li
+  - Zhiwei Cao
+  publisher: IEEE Transactions on Artificial Intelligence
+  date: '2025-01-01'
+  link: https://doi.org/g974hg
+  image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/mw690/008K2OkEly1i6pu6ojfnxj30y00u0dq4.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TAI.2025.3602409
+  title: 'MSAF: Multi-Modal Sentiment Detection via Multi-Scale Adaptive Fusion'
+  authors:
+  - Jihong Guan
+  - Yulou Shu
+  - Wuchao Liu
+  - Wengen Li
+  - Shuigeng Zhou
+  - Yichao Zhang
+  publisher: IEEE Transactions on Artificial Intelligence
+  date: '2025-01-01'
+  link: https://doi.org/g974hh
+  image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/mw690/008K2OkEly1i6pu6lpxs8j313a0lajvk.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3769297
+  title: Towards Robust and Interpretable Spatial-Temporal Graph Modeling for Traffic
+    Prediction
+  authors:
+  - Hanchen Yang
+  - Jiannong Cao
+  - Wengen Li
+  - Yu Yang
+  - Xiaoyi Li
+  - Lingbai Kong
+  - Yichao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: ACM Transactions on Knowledge Discovery from Data
+  date: '2025-09-25'
+  link: https://doi.org/g974hk
+  image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/mw690/008K2OkEly1i6pu6hk5umj30yy0fudjm.jpg
+  plugin: sources.py
+  file: sources.yaml
