@@ -3377,8 +3377,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TAI.2025.3548621
-  title: 'C<sup>2</sup>RS: Multimodal Knowledge Graph Completion with Cross-Modal
-    Consistency and Relation Semantics'
+  title: "C\n                    <sup>2</sup>\n                    RS: Multimodal\
+    \ Knowledge Graph Completion With Cross-Modal Consistency and Relation Semantics"
   authors:
   - Yulou Shu
   - Wengen Li
@@ -3387,7 +3387,7 @@
   - Jihong Guan
   - Shuigeng Zhou
   publisher: IEEE Transactions on Artificial Intelligence
-  date: '2025-01-01'
+  date: '2025-11-01'
   link: https://doi.org/g87kw4
   image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i31yghapqxj313a0u0jxh.jpg
   plugin: sources.py
@@ -3642,13 +3642,13 @@
   - Jihong Guan
   - Shuigeng Zhou
   publisher: ACM Transactions on Knowledge Discovery from Data
-  date: '2025-09-25'
+  date: '2025-11-06'
   link: https://doi.org/g974hk
   image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/mw690/008K2OkEly1i6pu6hk5umj30yy0fudjm.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2025.3624051
-  title: 'STDMamba: Spatio-Temporal Decomposition Mamba for Long-Term Fine-Grained
+  title: 'STDMamba: Spatiotemporal Decomposition Mamba for Long-Term Fine-Grained
     SST Prediction'
   authors:
   - Xudong Jiang
