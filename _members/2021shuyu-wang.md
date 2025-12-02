@@ -25,7 +25,6 @@ Remote Sensing Data Processing, Spatio-temporal Data Analysis, Spatial–tempora
 - 国家自然科学基金青年基金，62202336，融合多源稀疏时空数据的广域海面温度预测方法研究，2023/01-至今。
 
 ### 教育经历/Educational Background
-- 2014~2018 山东女子学院 计算机科学与技术专业 本科/学士
 - 2018~2021 中国石油大学（华东） 计算机科学与技术专业 研究生/硕士
 - 2021~2025 同济大学 计算机科学与技术专业 研究生/博士
 
