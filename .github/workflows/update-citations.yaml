@@ -25,7 +25,7 @@ env:
 jobs:
   update-citations:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 100
 
     steps:
       # for debugging
