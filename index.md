@@ -76,7 +76,7 @@ We warmly invite students interested in the above research directions and passio
 
 {%
   include feature.html
-  image="https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEly1i34kths1zaj30k00e0dh3.jpg"
+  image="images/research/bioinfo.jpg"
   title="生物信息学"
   text=text
 %}
@@ -91,7 +91,7 @@ We warmly invite students interested in the above research directions and passio
 
 {%
   include feature.html
-  image="https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/large/008K2OkEly1i34ktoxteij30zk0ntn08.jpg"
+  image="images/research/stdm.png"
   title="时空数据挖掘"
   flip=true
   style="bare"
@@ -109,7 +109,7 @@ ADMIS团队重点研究多模态数据检索和多模态数据融合两大任务
 
 {%
   include feature.html
-  image="https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEly1i34ktmhf33j30u70ip76j.jpg"
+  image="images/research/multimodal.jpg"
   title="多模态智能技术"
   text=text
 %}
@@ -124,7 +124,7 @@ ADMIS-网络组研究图神经网络架构改进与任务适配、检索增强�
 
 {%
   include feature.html
-  image="https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEly1i34ktk4rv9j30k00e0t9f.jpg"
+  image="images/research/graph.jpg"
   title="图数据挖掘"
   flip=true
   style="bare"
