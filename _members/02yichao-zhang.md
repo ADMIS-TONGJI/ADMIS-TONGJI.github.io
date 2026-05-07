@@ -1,6 +1,6 @@
 ---
 name: 张毅超 (Yichao Zhang)
-image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i3437b0u3bj30k00qodhi.jpg
+image: images/people/zhangyichao.png
 role: assocprof
 affiliation: Tongji University
 aliases:
@@ -8,13 +8,13 @@ aliases:
   - Y. Zhang
   - Yichao Zhang
 links:
-  home-page: https://see.tongji.edu.cn/info/1388/10491.htm
+  home-page: https://cs.tongji.edu.cn/info/1063/2829.htm
   orcid: 0000-0002-9931-4733
   email: yichaozhang@tongji.edu.cn
 ---
 
 ### 个人简介/About Me
-Yichao Zhang received the B.Sc. degree in Materials Physics and M.Sc. degree in Material Physics and chemistry in 2004 and 2008, respectively. He received the Ph.D. degree in Computer Science from Tongji University, Shanghai, China, in 2012. In addition, he conducted joint doctoral studies in the Department of Computer Science, University College London. He is currently an associate professor of the Department of Computer Science and Technology at Tongji University. He is a member of China Computer Federation (CCF), a member of IEEE, and a member of ACM.
+Yichao Zhang received the B.Sc. degree in Materials Physics and M.Sc. degree in Material Physics and chemistry in 2004 and 2008, respectively. He received the Ph.D. degree in Computer Science from Tongji University, Shanghai, China, in 2012. In addition, he conducted joint doctoral studies in the Department of Computer Science, University College London. He is currently an associate professor of the School of Computer Science and Technology at Tongji University. He is a member of China Computer Federation (CCF), a member of IEEE, and a member of ACM.
 
 ### 研究方向/Research Interests
 Graph neural networks, large language models, link and weight prediction, weighted network modeling and random diffusion, information diffusion on social networks, network games, financial data analysis.

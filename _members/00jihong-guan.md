@@ -1,6 +1,6 @@
 ---
 name: 关佶红 (Jihong Guan)
-image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEly1i3434tpliyj30k00qodgs.jpg
+image: images/people/guanjihong.png
 role: prof
 affiliation: Tongji University
 aliases:
@@ -9,7 +9,7 @@ aliases:
   - J. Guan
   - Jihong Guan
 links:
-  home-page: https://see.tongji.edu.cn/info/1376/10297.htm
+  home-page: https://cs.tongji.edu.cn/info/1061/2814.htm
   orcid: 0000-0003-2313-7635
   google-scholar: N2xsxV8AAAAJ
   email: jhguan@tongji.edu.cn

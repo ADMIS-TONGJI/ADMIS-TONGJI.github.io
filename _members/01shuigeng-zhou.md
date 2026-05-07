@@ -1,6 +1,6 @@
 ---
 name: 周水庚 (Shuigeng Zhou)
-image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEly1i34327e7twj30k00qo0u4.jpg
+image: images/people/zhoushuigeng.png
 role: prof
 affiliation: Fudan University
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: 李文根 (Wengen Li)
-image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEly1i34324l4vjj30ho0mi0tg.jpg
+image: images/people/liwengen.png
 role: assocprof
 affiliation: Tongji University
 aliases:
@@ -8,16 +8,16 @@ aliases:
   - W. Li
   - Wengen Li
 links:
-  home-page: https://see.tongji.edu.cn/info/1386/12433.htm
+  home-page: https://cs.tongji.edu.cn/info/1063/2826.htm
   orcid: 0000-0002-8768-6740
   email: lwengen@tongji.edu.cn
 ---
 
 ### 个人简介/About Me
-Wengen Li received the B.Eng. degree and Ph.D. degree in Computer Science from Tongji University, Shanghai, China, in 2011 and 2017, respectively. In addition, he received a dual Ph.D. degree in Computer Science from the Hong Kong Polytechnic University in 2018. He is currently an associate professor of the Department of Computer Science and Technology at Tongji University. He is a member of China Computer Federation (CCF), a member of IEEE, and a member of ACM.
+Wengen Li received the B.Eng. degree and Ph.D. degree in Computer Science from Tongji University, Shanghai, China, in 2011 and 2017, respectively. In addition, he received a dual Ph.D. degree in Computer Science from the Hong Kong Polytechnic University in 2018. He is currently an associate professor of the School of Computer Science and Technology at Tongji University. He is a member of China Computer Federation (CCF), a member of IEEE, and a member of ACM.
 
 ### 研究方向/Research Interests
-Multi-modal data retrieval and analytics, spatio-temporal data analytics for human mobility, urban dynamics and marine science.
+Multi-modal data retrieval and analytics, spatio-temporal intelligence for urban computing and ocean science
 
 ### 主持项目/Projects
 - 融合多源稀疏时空数据的广域海面温度预测方法研究，国家自然科学基金青年基金，2023/01-2025/12
