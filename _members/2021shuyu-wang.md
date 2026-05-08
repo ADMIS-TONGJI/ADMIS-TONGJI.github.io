@@ -1,6 +1,6 @@
 ---
 name: 王淑玉 (Shuyu Wang)
-image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/large/008K2OkEly1i3439mhpbej30u010l0v6.jpg
+image: images/people/wangshuyu.jpg
 role: graduated_phd
 
 aliases:
