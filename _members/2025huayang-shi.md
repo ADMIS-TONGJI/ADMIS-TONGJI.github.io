@@ -8,7 +8,7 @@ aliases:
   - Huayang Shi
 links:
   orcid: 0009-0007-0870-6832
-  email: 2150677@tongji.edu.cn
+  email: 2511964@tongji.edu.cn
 ---
 
 ### 个人简介/About Me
