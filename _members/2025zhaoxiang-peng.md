@@ -1,7 +1,7 @@
 ---
 name: 彭兆祥 (Zhaoxiang Peng)
 image: images/people/pengzhaoxiang.jpg
-role: Master Student
+role: current_master
 
 aliases:
   - Z. Peng
