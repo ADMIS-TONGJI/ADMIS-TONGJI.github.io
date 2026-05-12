@@ -1,7 +1,7 @@
 ---
 name: 杨涵晨 (Hanchen Yang)
 image: images/people/yanghanchen.jpg
-role: current_phd
+role: graduated_phd
 
 aliases:
   - H. Yang

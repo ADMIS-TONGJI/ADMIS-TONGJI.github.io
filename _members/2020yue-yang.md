@@ -1,7 +1,7 @@
 ---
 name: 杨玥 (Yue Yang)
 image: images/people/yangyue.png
-role: current_phd
+role: graduated_phd
 
 aliases:
   - Y. Yang
