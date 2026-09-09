@@ -818,3 +818,35 @@
 - id: doi:10.3390/rs18040662
   image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/small/008K2OkEly1ib8uvpfc9rj31ko0u0qb4.jpg
 
+- id: doi:10.1016/j.eswa.2026.133367
+  image: images/papers/10.1016j.eswa.2026.133367.png
+
+- id: doi:10.1016/j.eswa.2026.133953
+  image: images/papers/10.1016j.eswa.2026.133953.png
+
+- id: doi:10.1016/j.ins.2026.124035
+  image: images/papers/10.1016j.ins.2026.124035.png
+
+- id: doi:10.1016/j.neucom.2025.132540
+  image: images/papers/10.1016j.neucom.2025.132540.png
+
+- id: doi:10.1109/BIBM66473.2025.11356714
+  image: images/papers/10.1109BIBM66473.2025.11356714.png
+
+- id: doi:10.1109/TKDE.2026.3674110
+  image: images/papers/10.1109TKDE.2026.3674110.png
+
+- id: doi:10.1109/TNSE.2024.3523300
+  image: images/papers/10.1109TNSE.2024.3523300.png
+
+- id: doi:10.1145/3770855.3818995
+  image: images/papers/10.11453770855.3818995.png
+
+- id: doi:10.2139/ssrn.4882303
+  image: images/papers/10.2139ssrn.4882303.png
+
+- id: doi:10.2139/ssrn.5995634
+  image: images/papers/10.2139ssrn.5995634.png
+  
+- id: doi:10.2139/ssrn.6659351
+  image: images/papers/10.2139ssrn.6659351.png
