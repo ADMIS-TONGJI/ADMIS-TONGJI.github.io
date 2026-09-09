@@ -3713,8 +3713,6 @@
   date: '2026-05-01'
   link: https://doi.org/10.1109/TKDE.2026.3674110
   image: images/papers/10.1109TKDE.2026.3674110.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/tnse.2024.3523300
   title: 'Predicting Participation Shift of Users at the Next Stage in Social Networks'
   authors:
@@ -3729,8 +3727,6 @@
   date: '2025-03-01'
   link: https://doi.org/10.1109/TNSE.2024.3523300
   image: images/papers/10.1109TNSE.2024.3523300.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/bibm66473.2025.11356714
   title: 'BioBridge: Bridging Proteins and Language for Enhanced Biological Reasoning with LLMs'
   authors:
@@ -3743,8 +3739,6 @@
   date: '2025-12-01'
   link: https://doi.org/10.1109/BIBM66473.2025.11356714
   image: images/papers/10.1109BIBM66473.2025.11356714.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.eswa.2026.133367
   title: 'SLAN: A state-space linear attention network with meta guidance and chunk-wise fusion for long-term time series forecasting'
   authors:
@@ -3759,8 +3753,6 @@
   date: '2026-12-15'
   link: https://doi.org/10.1016/j.eswa.2026.133367
   image: images/papers/10.1016j.eswa.2026.133367.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.eswa.2026.133953
   title: 'MIGDG: A mutual information guided dual-space graph-embedding model for entity alignment'
   authors:
@@ -3776,8 +3768,6 @@
   date: '2027-01-01'
   link: https://doi.org/10.1016/j.eswa.2026.133953
   image: images/papers/10.1016jeswa.2026.133953.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.ins.2026.124035
   title: 'IHD: Interest-aware heterogeneous diffusion model for cascade prediction in social networks'
   authors:
@@ -3792,8 +3782,6 @@
   date: '2027-01-15'
   link: https://doi.org/10.1016/j.ins.2026.124035
   image: images/papers/10.1016j.ins.2026.124035.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.neucom.2025.132540
   title: 'A prompt-tuning contrastive learning model for anchor link prediction'
   authors:
@@ -3808,8 +3796,6 @@
   date: '2026-03-14'
   link: https://doi.org/10.1016/j.neucom.2025.132540
   image: images/papers/10.1016j.neucom.2025.132540.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1145/3770855.3818995
   title: 'Effective and Robust Single-cell Cross-omics Annotation via Vector-Quantized Autoencoders'
   authors:
@@ -3824,8 +3810,6 @@
   date: '2026-08-08'
   link: https://doi.org/10.1145/3770855.3818995
   image: images/papers/10.11453770855.3818995.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.2139/ssrn.4882303
   title: 'A Lightweight Video Anomaly Detection Model with Weak Supervision and Adaptive Instance Selection'
   authors:
@@ -3836,8 +3820,6 @@
   date: '2024-07-02'
   link: https://doi.org/10.2139/ssrn.4882303
   image: images/papers/10.2139ssrn.4882303.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.2139/ssrn.6659351
   title: 'COTA: Cluster Optimal Transport Alignment for Cross-Domain Recommendation'
   authors:
@@ -3853,8 +3835,6 @@
   date: '2026-04-27'
   link: https://doi.org/10.2139/ssrn.6659351
   image: images/papers/10.2139ssrn.6659351.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.2139/ssrn.5995634
   title: 'scI2CL: Effectively Fusing Single-cell Multi-omics by Intra- and Inter-omics Contrastive Learning'
   authors:
@@ -3868,5 +3848,3 @@
   date: '2025-12-31'
   link: https://doi.org/10.2139/ssrn.5995634
   image: images/papers/10.2139ssrn.5995634.png
-  plugin: sources.py
-  file: sources.yaml
