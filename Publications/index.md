@@ -11,7 +11,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="doi:10.1109/CVPR52734.2025.01663" style="rich" %}
+{% include citation.html lookup="doi:10.1145/3770855.3818995" style="rich" %}
 
 {% include section.html %}
 
