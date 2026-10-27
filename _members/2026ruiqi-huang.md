@@ -1,6 +1,6 @@
 ---
 name: 黄瑞祺 (Ruiqi Huang)
-image: images/people/haungruiqi.jpg
+image: images/people/huangruiqi.jpg
 role: current_master
 
 aliases:
