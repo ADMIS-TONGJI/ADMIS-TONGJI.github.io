@@ -1,7 +1,7 @@
 ---
 name: 宋子涵 (Zihan Song)
 image: images/people/songzihan.jpg
-role: current_master
+role: graduated_master
 
 aliases:
   - Z. Song
