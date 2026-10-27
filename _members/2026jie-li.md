@@ -1,7 +1,7 @@
 ---
 name: 李杰 (Jie Li)
 image: images/people/lijie.jpg
-role: current master
+role: current_master
 
 aliases:
   - J. Li
