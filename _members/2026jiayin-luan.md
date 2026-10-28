@@ -1,6 +1,6 @@
 ---
 name: 栾佳音 (Jiayin Luan)
-image: images/people/luanjiayin.png
+image: images/people/luanjiayin.jpg
 role: current_master
 
 aliases:
