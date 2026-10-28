@@ -845,8 +845,40 @@
 - id: doi:10.2139/ssrn.4882303
   image: images/papers/10.2139ssrn.4882303.png
 
-- id: doi:10.2139/ssrn.5995634
-  image: images/papers/10.2139ssrn.5995634.png
+- id: doi:10.1016/j.inffus.2026.104794
+  image: images/papers/10.1016j.inffus.2026.104794.png
   
 - id: doi:10.2139/ssrn.6659351
   image: images/papers/10.2139ssrn.6659351.png
+
+# LLM4SST
+- id: doi:10.1016/j.eswa.2026.134587
+  image: images/papers/10.1016j.eswa.2026.134587.png
+
+# Disentanglement-Based Contrastive Learning and Optimization for User Identity Linkage
+- id: doi:10.1007/978-981-92-0366-6_17
+  image: images/papers/10.1007978-981-92-0366-6_17.png
+
+# AdaMamba
+- id: doi:10.48550/arXiv.2604.23239
+  image: images/papers/10.48550arXiv.2604.23239.png
+
+# One Pass for All / DiffTSP
+- id: doi:10.48550/arXiv.2604.18344
+  image: images/papers/10.48550arXiv.2604.18344.png
+
+# 3D Ocean Subsurface Temperature Reconstruction
+- id: doi:10.48550/arXiv.2605.00860
+  image: images/papers/10.48550arXiv.2605.00860.png
+
+# Disentangling Generation and Regression
+- id: doi:10.48550/arXiv.2605.21381
+  image: images/papers/10.48550arXiv.2605.21381.png
+
+# Adaptive Item-based Collaborative Structures
+- id: doi:10.48550/arXiv.2608.23400
+  image: images/papers/10.48550arXiv.2608.23400.png
+
+# Joint Imputation of Multiple Highly Sparse Remote Sensing Observations
+- id: doi:10.1016/j.eswa.2026.134391
+  image: images/papers/10.1016j.eswa.2026.134391.png
