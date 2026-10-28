@@ -1,7 +1,7 @@
 ---
 name: 赵子叶 (Ziye Zhao)
 image: images/people/zhaoziye.jpg
-role: Master Student
+role: current_master
 
 aliases:
   - Zoe Zhao
