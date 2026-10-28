@@ -3,6 +3,10 @@ name: 张子祥 (Zixiang Zhang)
 image: images/people/zhangzixiang.jpg
 role: current_master
 
+aliases:
+  - Z. Zhang
+  - Zixiang Zhang
+
 links:
   email: zhangzixiang@tongji.edu.cn
 ---

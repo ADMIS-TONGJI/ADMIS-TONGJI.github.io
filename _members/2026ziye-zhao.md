@@ -5,6 +5,8 @@ role: Master Student
 
 aliases:
   - Zoe Zhao
+  - Ziye Zhao
+
 links:
   email: 2634186@tongji.edu.cn
 ---

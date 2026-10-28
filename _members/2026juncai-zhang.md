@@ -5,6 +5,8 @@ role: current_phd
 
 aliases:
   - JC. Zhang
+  - Juncai Zhang
+  
 links:
   orcid: 0009-0006-8282-0863
   email: juncaizhang@tongji.edu.cn
