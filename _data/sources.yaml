@@ -878,3 +878,6 @@
 # Adaptive Item-based Collaborative Structures
 - id: doi:10.48550/arXiv.2608.23400
   image: images/papers/10.48550arXiv.2608.23400.png
+
+# Joint Imputation of Multiple Highly Sparse Remote Sensing Observations
+- id: doi:10.1016/j.eswa.2026.134391
