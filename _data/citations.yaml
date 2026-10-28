@@ -3998,3 +3998,18 @@
   image: images/papers/10.48550arXiv.2608.23400.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.eswa.2026.134391
+  title: Joint imputation of multiple highly sparse remote sensing observations with
+    heterogeneous mixture of experts
+  authors:
+  - Qian Chen
+  - Shuyu Wang
+  - Wengen Li
+  - Jihong Guan
+  - Zhen Zhang
+  publisher: Expert Systems with Applications
+  date: '2027-02-01'
+  link: https://doi.org/hcqjzn
+  image: images/papers/10.1016j.eswa.2026.134391.png
+  plugin: sources.py
+  file: sources.yaml
