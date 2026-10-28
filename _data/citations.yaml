@@ -3847,9 +3847,9 @@
   image: images/papers/10.2139ssrn.4882303.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.2139/ssrn.5995634
-  title: 'scI2CL: Effectively Fusing Single-cell Multi-omics by Intra- and Inter-omics
-    Contrastive Learning'
+- id: doi:10.1016/j.inffus.2026.104794
+  title: 'scI2CL: Effectively fusing single-cell multi-omics by intra- and inter-omics
+    contrastive learning'
   authors:
   - Wuchao Liu
   - Han Peng
@@ -3857,10 +3857,10 @@
   - Yichao Zhang
   - Jihong Guan
   - Shuigeng Zhou
-  publisher: Elsevier BV
-  date: '2025-01-01'
-  link: https://doi.org/hch39m
-  image: images/papers/10.2139ssrn.5995634.png
+  publisher: Information Fusion
+  date: '2027-03-01'
+  link: https://doi.org/hcqjwj
+  image: images/papers/10.1016j.inffus.2026.104794.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2139/ssrn.6659351
@@ -3878,5 +3878,123 @@
   date: '2026-01-01'
   link: https://doi.org/hch39n
   image: images/papers/10.2139ssrn.6659351.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.eswa.2026.134587
+  title: 'LLM4SST: Harnessing LLMs with spatiotemporal distribution-aware optimization
+    strategy for structurally consistent sea surface temperature prediction'
+  authors:
+  - Yuwei Chen
+  - Hanchen Yang
+  - Xudong Jiang
+  - Xiaofeng Ge
+  - Wengen Li
+  - Hailiang Cheng
+  - Jihong Guan
+  - Yichao Zhang
+  - Zhiwei Cao
+  publisher: Expert Systems with Applications
+  date: '2027-02-01'
+  link: https://doi.org/hcqjwk
+  image: images/papers/10.1016j.eswa.2026.134587.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-981-92-0366-6_17
+  title: "Disentanglement-Based Contrastive Learning and\_Optimization for\_User Identity\
+    \ Linkage"
+  authors:
+  - Yue Yang
+  - Yichao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  - Wengen Li
+  publisher: Lecture Notes in Computer Science
+  date: '2026-01-01'
+  link: https://doi.org/hcqjwm
+  image: images/papers/10.1007978-981-92-0366-6_17.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2604.23239
+  title: 'AdaMamba: Adaptive Frequency-Gated Mamba for Long-Term Time Series Forecasting'
+  authors:
+  - Xudong Jiang
+  - Mingshan Loo
+  - Hanchen Yang
+  - Wengen Li
+  - Mingrui Zhang
+  - Yichao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hcqjwn
+  image: images/papers/10.48550arXiv.2604.23239.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2604.18344
+  title: 'DiffTSP: A Conditional Discrete Diffusion Model for Knowledge Graph Triple
+    Set Prediction'
+  authors:
+  - Jihong Guan
+  - Jiaqi Wang
+  - Han Cai
+  - Wengen Li
+  - Hanchen Yang
+  - Yichao Zhang
+  - Jinzhi Dong
+  - Shuigeng Zhou
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hcqjwp
+  image: images/papers/10.48550arXiv.2604.18344.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2605.00860
+  title: An Adaptive Spatiotemporal Clustering Framework for 3D Ocean Subsurface Temperature
+    Reconstruction
+  authors:
+  - Ming Shan Loo
+  - Wengen Li
+  - Xudong Jiang
+  - Hailiang Cheng
+  - Zhifei Zhang
+  - Jihong Guan
+  - Yichao Zhang
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hcqjwq
+  image: images/papers/10.48550arXiv.2605.00860.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2605.21381
+  title: Disentangling Generation and Regression in Stochastic Interpolants for Controllable
+    Image Restoration
+  authors:
+  - Yi Liu
+  - Jia Ma
+  - Wengen Li
+  - Jihong Guan
+  - Shuigeng Zhou
+  - Yichao Zhang
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hcqjwr
+  image: images/papers/10.48550arXiv.2605.21381.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2608.23400
+  title: Adaptive Item-based Collaborative Structures via Noise Rescheduling in Diffusion
+    for Generative Recommendation
+  authors:
+  - Jiaqi Wang
+  - Tianying Liu
+  - Heng Chang
+  - Jihong Guan
+  - Wengen Li
+  - Shuigeng Zhou
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hcqjws
+  image: images/papers/10.48550arXiv.2608.23400.png
   plugin: sources.py
   file: sources.yaml
