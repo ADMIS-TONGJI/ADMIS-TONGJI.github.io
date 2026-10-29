@@ -12,7 +12,7 @@
   publisher: IEEE Transactions on Artificial Intelligence
   date: '2025-03-01'
   link: https://doi.org/g8nm6z
-  image: images/papers/10.1109TAI.2024.3459857.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAI.2024.3459857.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TAFFC.2024.3396144
@@ -32,7 +32,7 @@
   publisher: IEEE Transactions on Affective Computing
   date: '2024-10-01'
   link: https://doi.org/g8nm62
-  image: images/papers/10.1109TAFFC.2024.3396144.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAFFC.2024.3396144.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TPAMI.2024.3435503
@@ -46,7 +46,7 @@
   publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
   date: '2024-12-01'
   link: https://doi.org/g8nnbg
-  image: images/papers/10.1109TPAMI.2024.3435503.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TPAMI.2024.3435503.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ACCESS.2024.3361672
@@ -58,7 +58,7 @@
   publisher: IEEE Access
   date: '2024-01-01'
   link: https://doi.org/g8nnbh
-  image: images/papers/10.1109ACCESS.2024.3361672.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109ACCESS.2024.3361672.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2024.3440912
@@ -74,7 +74,7 @@
   publisher: IEEE Transactions on Geoscience and Remote Sensing
   date: '2024-01-01'
   link: https://doi.org/g8nnbn
-  image: images/papers/10.1109TGRS.2024.3440912.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TGRS.2024.3440912.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICASSP48485.2024.10448187
@@ -88,7 +88,7 @@
     and Signal Processing (ICASSP)
   date: '2024-04-14'
   link: https://doi.org/g8nnbp
-  image: images/papers/10.1109ICASSP48485.2024.10448187.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109ICASSP48485.2024.10448187.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/aaai.v38i7.28528
@@ -103,7 +103,7 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2024-03-24'
   link: https://doi.org/g8nnbr
-  image: images/papers/10.1609aaai.v38i7.28528.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1609aaai.v38i7.28528.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btae304
@@ -116,7 +116,7 @@
   publisher: Bioinformatics
   date: '2024-05-01'
   link: https://doi.org/g8nnbs
-  image: images/papers/10.1093bioinformaticsbtae304.jpeg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093bioinformaticsbtae304.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3663573
@@ -133,7 +133,7 @@
   publisher: ACM Transactions on Knowledge Discovery from Data
   date: '2024-07-26'
   link: https://doi.org/g8nnbt
-  image: images/papers/10.11453663573.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453663573.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TKDE.2024.3484461
@@ -148,7 +148,7 @@
   publisher: IEEE Transactions on Knowledge and Data Engineering
   date: '2025-01-01'
   link: https://doi.org/g8n8ph
-  image: images/papers/10.1109TKDE.2024.3484461.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TKDE.2024.3484461.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2024.3434461
@@ -161,7 +161,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2024-11-01'
   link: https://doi.org/g8nnbw
-  image: images/papers/10.1109TCBB.2024.3434461.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TCBB.2024.3434461.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/info15060322
@@ -172,7 +172,7 @@
   publisher: Information
   date: '2024-05-31'
   link: https://doi.org/g8nnbx
-  image: images/papers/10.3390info15060322.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.3390info15060322.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2024.3406922
@@ -188,7 +188,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2024-11-01'
   link: https://doi.org/g8nnbz
-  image: images/papers/10.1109TCBB.2024.3406922.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TCBB.2024.3406922.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/a17050217
@@ -200,7 +200,7 @@
   publisher: Algorithms
   date: '2024-05-16'
   link: https://doi.org/g8nnb2
-  image: images/papers/10.3390a17050217.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.3390a17050217.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICASSP48485.2024.10446683
@@ -218,7 +218,7 @@
     and Signal Processing (ICASSP)
   date: '2024-04-14'
   link: https://doi.org/g8nnb3
-  image: images/papers/10.1109ICASSP48485.2024.10446683.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109ICASSP48485.2024.10446683.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICASSP48485.2024.10448031
@@ -232,7 +232,7 @@
     and Signal Processing (ICASSP)
   date: '2024-04-14'
   link: https://doi.org/g8nnb4
-  image: images/papers/10.1109ICASSP48485.2024.10448031.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109ICASSP48485.2024.10448031.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2024.128698
@@ -245,7 +245,7 @@
   publisher: Neurocomputing
   date: '2025-01-01'
   link: https://doi.org/g8nnb5
-  image: images/papers/10.1016j.neucom.2024.128698.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.neucom.2024.128698.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10489-023-04767-2
@@ -260,7 +260,7 @@
   publisher: Applied Intelligence
   date: '2023-07-13'
   link: https://doi.org/g8nhmz
-  image: images/papers/10.1007s10489-023-04767-2.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007s10489-023-04767-2.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bib/bbad296
@@ -274,7 +274,7 @@
   publisher: Briefings in Bioinformatics
   date: '2023-08-20'
   link: https://doi.org/g6345s
-  image: images/papers/10.1093bibbbad296.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093bibbbad296.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1049/cvi2.12137
@@ -289,7 +289,7 @@
   publisher: IET Computer Vision
   date: '2022-09-14'
   link: https://doi.org/g8nv6h
-  image: images/papers/10.1049cvi2.12137.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1049cvi2.12137.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2023.02.027
@@ -302,7 +302,7 @@
   publisher: Neurocomputing
   date: '2023-05-01'
   link: https://doi.org/g8nv6j
-  image: images/papers/10.1016j.neucom.2023.02.027.jpeg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.neucom.2023.02.027.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/rs15081956
@@ -316,7 +316,7 @@
   publisher: Remote Sensing
   date: '2023-04-07'
   link: https://doi.org/gs7z76
-  image: images/papers/10.3390rs15081956.jpeg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.3390rs15081956.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSTARS.2023.3308033
@@ -331,7 +331,7 @@
     Sensing
   date: '2023-01-01'
   link: https://doi.org/g8nv6n
-  image: images/papers/10.1109JSTARS.2023.3308033.gif
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109JSTARS.2023.3308033.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3593588
@@ -347,7 +347,7 @@
   publisher: ACM Transactions on Intelligent Systems and Technology
   date: '2023-06-15'
   link: https://doi.org/gr89zx
-  image: images/papers/10.11453593588.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453593588.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3597937
@@ -362,7 +362,7 @@
   publisher: ACM Transactions on Intelligent Systems and Technology
   date: '2023-07-21'
   link: https://doi.org/gtpfg7
-  image: images/papers/10.11453597937.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453597937.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3593810
@@ -376,7 +376,7 @@
   publisher: ACM Transactions on Knowledge Discovery from Data
   date: '2023-06-28'
   link: https://doi.org/g8nv6p
-  image: images/papers/10.11453593810.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453593810.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/ani13182924
@@ -393,7 +393,7 @@
   publisher: Animals
   date: '2023-09-14'
   link: https://doi.org/g8nv6q
-  image: images/papers/10.3390ani13182924.webp
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.3390ani13182924.webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/atmos14091358
@@ -408,7 +408,7 @@
   publisher: Atmosphere
   date: '2023-08-29'
   link: https://doi.org/gs7z8q
-  image: images/papers/10.3390atmos14091358.jpeg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.3390atmos14091358.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btad473
@@ -422,7 +422,7 @@
   publisher: Bioinformatics
   date: '2023-08-01'
   link: https://doi.org/g8nwb7
-  image: images/papers/10.1093bioinformaticsbtad473.jpeg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093bioinformaticsbtad473.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/math11122709
@@ -437,7 +437,7 @@
   publisher: Mathematics
   date: '2023-06-15'
   link: https://doi.org/g8nwb8
-  image: images/papers/10.3390math11122709.jpeg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.3390math11122709.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btad258
@@ -450,7 +450,7 @@
   publisher: Bioinformatics
   date: '2023-04-20'
   link: https://doi.org/g8nwb9
-  image: images/papers/10.1093bioinformaticsbtad258.jpeg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093bioinformaticsbtad258.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/rs15010088
@@ -465,7 +465,7 @@
   publisher: Remote Sensing
   date: '2022-12-23'
   link: https://doi.org/gr3r3k
-  image: images/papers/10.3390rs15010088.jpeg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.3390rs15010088.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/aaai.v37i5.25799
@@ -480,7 +480,7 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2023-06-26'
   link: https://doi.org/g8nwcb
-  image: images/papers/10.1609aaai.v37i5.25799.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1609aaai.v37i5.25799.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/aaai.v37i10.26452
@@ -494,7 +494,7 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2023-06-26'
   link: https://doi.org/g8nwcc
-  image: images/papers/10.1609aaai.v37i10.26452.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1609aaai.v37i10.26452.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3580305.3599256
@@ -509,7 +509,7 @@
     and Data Mining
   date: '2023-08-04'
   link: https://doi.org/gskrrf
-  image: images/papers/10.11453580305.3599256.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453580305.3599256.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3581783.3612045
@@ -525,7 +525,7 @@
   publisher: Proceedings of the 31st ACM International Conference on Multimedia
   date: '2023-10-26'
   link: https://doi.org/g8nwcd
-  image: images/papers/10.11453581783.3612045.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453581783.3612045.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3581783.3612523
@@ -539,7 +539,7 @@
   publisher: Proceedings of the 31st ACM International Conference on Multimedia
   date: '2023-10-26'
   link: https://doi.org/g8nwcf
-  image: images/papers/10.11453581783.3612523.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453581783.3612523.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3581783.3612488
@@ -553,7 +553,7 @@
   publisher: Proceedings of the 31st ACM International Conference on Multimedia
   date: '2023-10-26'
   link: https://doi.org/g8nwcg
-  image: images/papers/10.11453581783.3612488.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453581783.3612488.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICCV51070.2023.00630
@@ -567,7 +567,7 @@
   publisher: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
   date: '2023-10-01'
   link: https://doi.org/g8n8pk
-  image: images/papers/10.1109ICCV51070.2023.00630.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109ICCV51070.2023.00630.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bib/bbac018
@@ -582,7 +582,7 @@
   publisher: Briefings in Bioinformatics
   date: '2022-02-16'
   link: https://doi.org/gpthn8
-  image: images/papers/10.1093bibbbac018.jpeg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093bibbbac018.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2021.3061720
@@ -598,7 +598,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2022-07-01'
   link: https://doi.org/g8nm63
-  image: images/papers/10.1109TCBB.2021.3061720.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TCBB.2021.3061720.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCYB.2020.2995595
@@ -612,7 +612,7 @@
   publisher: IEEE Transactions on Cybernetics
   date: '2022-03-01'
   link: https://doi.org/g8n44w
-  image: images/papers/10.1109TCYB.2020.2995595.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TCYB.2020.2995595.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/rs14102371
@@ -629,7 +629,7 @@
   publisher: Remote Sensing
   date: '2022-05-14'
   link: https://doi.org/gsrqnc
-  image: images/papers/10.3390rs14102371.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.3390rs14102371.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btac377
@@ -643,7 +643,7 @@
   publisher: Bioinformatics
   date: '2022-06-02'
   link: https://doi.org/gqtk8v
-  image: images/papers/10.1093bioinformaticsbtac377.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093bioinformaticsbtac377.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-022-04874-w
@@ -657,7 +657,7 @@
   publisher: BMC Bioinformatics
   date: '2022-08-16'
   link: https://doi.org/g8n44x
-  image: images/papers/10.1186s12859-022-04874-w.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12859-022-04874-w.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TG.2020.3033720
@@ -670,7 +670,7 @@
   publisher: IEEE Transactions on Games
   date: '2022-06-01'
   link: https://doi.org/g8n44z
-  image: images/papers/10.1109TG.2020.3033720.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TG.2020.3033720.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1117/1.JEI.31.3.033044
@@ -685,7 +685,7 @@
   publisher: Journal of Electronic Imaging
   date: '2022-06-28'
   link: https://doi.org/g8n442
-  image: images/papers/10.11171.JEI.31.3.033044.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11171.JEI.31.3.033044.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.18653/v1/2022.naacl-main.349
@@ -702,7 +702,7 @@
     the Association for Computational Linguistics: Human Language Technologies'
   date: '2022-01-01'
   link: https://doi.org/g8n8pm
-  image: images/papers/10.18653v12022.naacl-main.349.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.18653v12022.naacl-main.349.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3503161.3548412
@@ -719,7 +719,7 @@
   publisher: Proceedings of the 30th ACM International Conference on Multimedia
   date: '2022-10-10'
   link: https://doi.org/gr89zs
-  image: images/papers/10.11453503161.3548412.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453503161.3548412.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/aaai.v36i5.20539
@@ -733,7 +733,7 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2022-06-28'
   link: https://doi.org/g8n445
-  image: images/papers/10.1609aaai.v36i5.20539.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1609aaai.v36i5.20539.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3511808.3557554
@@ -747,7 +747,7 @@
     Knowledge Management
   date: '2022-10-17'
   link: https://doi.org/g8n446
-  image: images/papers/10.11453511808.3557554.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453511808.3557554.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICASSP43922.2022.9746969
@@ -762,7 +762,7 @@
     and Signal Processing (ICASSP)
   date: '2022-05-23'
   link: https://doi.org/g8n447
-  image: images/papers/10.1109ICASSP43922.2022.9746969.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109ICASSP43922.2022.9746969.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/WACV51458.2022.00140
@@ -776,7 +776,7 @@
   publisher: 2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   date: '2022-01-01'
   link: https://doi.org/g8n448
-  image: images/papers/10.1109WACV51458.2022.00140.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109WACV51458.2022.00140.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3511808.3557633
@@ -791,7 +791,7 @@
     Knowledge Management
   date: '2022-10-17'
   link: https://doi.org/gtgzfs
-  image: images/papers/10.11453511808.3557633.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453511808.3557633.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btab195
@@ -804,7 +804,7 @@
   publisher: Bioinformatics
   date: '2021-03-26'
   link: https://doi.org/gndq93
-  image: images/papers/10.1093bioinformaticsbtab195.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093bioinformaticsbtab195.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-021-04369-0
@@ -818,7 +818,7 @@
   publisher: BMC Bioinformatics
   date: '2021-10-08'
   link: https://doi.org/g8n2dd
-  image: images/papers/10.1186s12859-021-04369-0.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12859-021-04369-0.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.is.2020.101648
@@ -833,7 +833,7 @@
   publisher: Information Systems
   date: '2021-02-01'
   link: https://doi.org/g8n2df
-  image: images/papers/10.1016j.is.2020.101648.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.is.2020.101648.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ins.2021.06.004
@@ -847,7 +847,7 @@
   publisher: Information Sciences
   date: '2021-10-01'
   link: https://doi.org/gkfxmh
-  image: images/papers/10.1016j.ins.2021.06.004.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.ins.2021.06.004.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TSMC.2019.2947516
@@ -861,7 +861,7 @@
   publisher: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
   date: '2021-09-01'
   link: https://doi.org/g4kc7k
-  image: images/papers/10.1109TSMC.2019.2947516.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TSMC.2019.2947516.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s00778-021-00706-0
@@ -876,7 +876,7 @@
   publisher: The VLDB Journal
   date: '2021-11-11'
   link: https://doi.org/g8n2dg
-  image: images/papers/10.1007s00778-021-00706-0.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007s00778-021-00706-0.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/tcbb.2021.3128576
@@ -889,7 +889,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2022-11-01'
   link: https://doi.org/g8n2dh
-  image: images/papers/10.1109tcbb.2021.3128576.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109tcbb.2021.3128576.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2174/1574893615999200618152109
@@ -901,7 +901,7 @@
   publisher: Current Bioinformatics
   date: '2021-02-01'
   link: https://doi.org/g8n2dn
-  image: images/papers/10.21741574893615999200618152109.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.21741574893615999200618152109.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSTARS.2021.3128577
@@ -919,7 +919,7 @@
     Sensing
   date: '2021-01-01'
   link: https://doi.org/gqgr7r
-  image: images/papers/10.1109JSTARS.2021.3128577.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109JSTARS.2021.3128577.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/tcbb.2021.3061720
@@ -935,7 +935,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2022-07-01'
   link: https://doi.org/g8nm63
-  image: images/papers/10.1109tcbb.2021.3061720.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109tcbb.2021.3061720.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s13369-021-05786-2
@@ -946,7 +946,7 @@
   publisher: Arabian Journal for Science and Engineering
   date: '2021-06-23'
   link: https://doi.org/g8n2dp
-  image: images/papers/10.1007s13369-021-05786-2.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007s13369-021-05786-2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fgene.2021.758131
@@ -960,7 +960,7 @@
   publisher: Frontiers in Genetics
   date: '2021-12-14'
   link: https://doi.org/gpv2j8
-  image: images/papers/10.3389fgene.2021.758131.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.3389fgene.2021.758131.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/aaai.v35i7.16810
@@ -974,7 +974,7 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2021-05-18'
   link: https://doi.org/g8n2dq
-  image: images/papers/10.1609aaai.v35i7.16810.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1609aaai.v35i7.16810.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-030-85899-5_2
@@ -987,7 +987,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2021-01-01'
   link: https://doi.org/g8n2dr
-  image: images/papers/10.1007978-3-030-85899-5_2.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-030-85899-5_2.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/IJCNN52387.2021.9534400
@@ -1004,7 +1004,7 @@
   publisher: 2021 International Joint Conference on Neural Networks (IJCNN)
   date: '2021-07-18'
   link: https://doi.org/g8n2ds
-  image: images/papers/10.1109IJCNN52387.2021.9534400.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109IJCNN52387.2021.9534400.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CVPR46437.2021.01419
@@ -1018,7 +1018,7 @@
   publisher: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   date: '2021-06-01'
   link: https://doi.org/gp6pfv
-  image: images/papers/10.1109CVPR46437.2021.01419.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109CVPR46437.2021.01419.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-020-03675-3
@@ -1031,7 +1031,7 @@
   publisher: BMC Bioinformatics
   date: '2020-09-01'
   link: https://doi.org/g8n2dt
-  image: images/papers/10.1186s12859-020-03675-3.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12859-020-03675-3.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2019.2897769
@@ -1045,7 +1045,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2020-05-01'
   link: https://doi.org/gndrsp
-  image: images/papers/10.1109TCBB.2019.2897769.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TCBB.2019.2897769.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ACCESS.2020.3022718
@@ -1058,7 +1058,7 @@
   publisher: IEEE Access
   date: '2020-01-01'
   link: https://doi.org/ghch7j
-  image: images/papers/10.1109ACCESS.2020.3022718.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109ACCESS.2020.3022718.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.physa.2020.124897
@@ -1073,7 +1073,7 @@
   publisher: 'Physica A: Statistical Mechanics and its Applications'
   date: '2020-11-01'
   link: https://doi.org/g8n2dv
-  image: images/papers/10.1016j.physa.2020.124897.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.physa.2020.124897.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCYB.2020.3010004
@@ -1089,7 +1089,7 @@
   publisher: IEEE Transactions on Cybernetics
   date: '2022-05-01'
   link: https://doi.org/g44x3h
-  image: images/papers/10.1109TCYB.2020.3010004.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TCYB.2020.3010004.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ymeth.2020.05.013
@@ -1104,7 +1104,7 @@
   publisher: Methods
   date: '2020-07-01'
   link: https://doi.org/gk4bxd
-  image: images/papers/10.1016j.ymeth.2020.05.013.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.ymeth.2020.05.013.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1142/S0219720020400107
@@ -1117,7 +1117,7 @@
   publisher: Journal of Bioinformatics and Computational Biology
   date: '2020-06-01'
   link: https://doi.org/gndrkc
-  image: images/papers/10.1142S0219720020400107.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1142S0219720020400107.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1142/S0219720020400053
@@ -1130,7 +1130,7 @@
   publisher: Journal of Bioinformatics and Computational Biology
   date: '2020-08-01'
   link: https://doi.org/gr87bk
-  image: images/papers/10.1142S0219720020400053.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1142S0219720020400053.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-021-04033-7
@@ -1142,7 +1142,7 @@
   publisher: BMC Bioinformatics
   date: '2021-06-02'
   link: https://doi.org/gm2h8g
-  image: images/papers/10.1186s12859-021-04033-7.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12859-021-04033-7.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12864-023-09577-x
@@ -1156,7 +1156,7 @@
   publisher: BMC Genomics
   date: '2023-11-09'
   link: https://doi.org/g8n2dx
-  image: images/papers/10.1186s12864-023-09577-x.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12864-023-09577-x.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-030-59410-7_42
@@ -1170,7 +1170,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2020-01-01'
   link: https://doi.org/g8n2d8
-  image: images/papers/10.1007978-3-030-59410-7_42.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-030-59410-7_42.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/aaai.v34i04.6063
@@ -1184,7 +1184,7 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2020-04-03'
   link: https://doi.org/g8n2fg
-  image: images/papers/10.1609aaai.v34i04.6063.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1609aaai.v34i04.6063.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ins.2019.06.022
@@ -1198,7 +1198,7 @@
   publisher: Information Sciences
   date: '2019-10-01'
   link: https://doi.org/g8n2fh
-  image: images/papers/10.1016j.ins.2019.06.022.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.ins.2019.06.022.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.26599/TST.2018.9010099
@@ -1211,7 +1211,7 @@
   publisher: Tsinghua Science and Technology
   date: '2019-08-01'
   link: https://doi.org/g8n2fj
-  image: images/papers/10.26599TST.2018.9010099.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.26599TST.2018.9010099.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-019-09670-4
@@ -1236,7 +1236,7 @@
   publisher: Nature Communications
   date: '2019-04-23'
   link: https://doi.org/ggbt8j
-  image: images/papers/10.1038s41467-019-09670-4.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1038s41467-019-09670-4.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2174/1574893614666190211161717
@@ -1250,7 +1250,7 @@
   publisher: Current Bioinformatics
   date: '2019-07-16'
   link: https://doi.org/g8n2fp
-  image: images/papers/10.21741574893614666190211161717.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.21741574893614666190211161717.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12864-019-5472-0
@@ -1265,7 +1265,7 @@
   publisher: BMC Genomics
   date: '2019-04-01'
   link: https://doi.org/g8n2fq
-  image: images/papers/10.1186s12864-019-5472-0.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12864-019-5472-0.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCSII.2018.2861621
@@ -1281,7 +1281,7 @@
   publisher: 'IEEE Transactions on Circuits and Systems II: Express Briefs'
   date: '2019-04-01'
   link: https://doi.org/g8n2fr
-  image: images/papers/10.1109TCSII.2018.2861621.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TCSII.2018.2861621.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2017.2701824
@@ -1295,7 +1295,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2019-03-01'
   link: https://doi.org/g8n2ft
-  image: images/papers/10.1109TCBB.2017.2701824.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TCBB.2017.2701824.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3325708
@@ -1308,7 +1308,7 @@
   publisher: ACM Transactions on Intelligent Systems and Technology
   date: '2019-09-20'
   link: https://doi.org/g8n2fv
-  image: images/papers/10.11453325708.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453325708.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TITS.2018.2873092
@@ -1324,7 +1324,7 @@
   publisher: IEEE Transactions on Intelligent Transportation Systems
   date: '2019-08-01'
   link: https://doi.org/gjjwzv
-  image: images/papers/10.1109TITS.2018.2873092.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TITS.2018.2873092.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TSC.2016.2582692
@@ -1338,7 +1338,7 @@
   publisher: IEEE Transactions on Services Computing
   date: '2018-03-01'
   link: https://doi.org/gdfqz7
-  image: images/papers/10.1109TSC.2016.2582692.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TSC.2016.2582692.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2174/1574893613666180726163429
@@ -1352,7 +1352,7 @@
   publisher: Current Bioinformatics
   date: '2018-11-07'
   link: https://doi.org/g8n2fw
-  image: images/papers/10.21741574893613666180726163429.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.21741574893613666180726163429.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ACCESS.2018.2846550
@@ -1365,7 +1365,7 @@
   publisher: IEEE Access
   date: '2018-01-01'
   link: https://doi.org/gjjwwv
-  image: images/papers/10.1109ACCESS.2018.2846550.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109ACCESS.2018.2846550.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1504/IJDMB.2018.094888
@@ -1391,7 +1391,7 @@
   publisher: Scientific Reports
   date: '2018-09-06'
   link: https://doi.org/gd7tns
-  image: images/papers/10.1038s41598-018-31254-3.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1038s41598-018-31254-3.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2174/1574893613666180118104250
@@ -1408,7 +1408,7 @@
   publisher: Current Bioinformatics
   date: '2018-09-04'
   link: https://doi.org/g8n2fz
-  image: images/papers/10.21741574893613666180118104250.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.21741574893613666180118104250.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jss.2018.01.034
@@ -1422,7 +1422,7 @@
   publisher: Journal of Systems and Software
   date: '2018-05-01'
   link: https://doi.org/g8n2f2
-  image: images/papers/10.1016j.jss.2018.01.034.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.jss.2018.01.034.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ins.2018.08.010
@@ -1438,7 +1438,7 @@
   publisher: Information Sciences
   date: '2018-10-01'
   link: https://doi.org/gfd3nr
-  image: images/papers/10.1016j.ins.2018.08.010.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.ins.2018.08.010.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TKDE.2017.2721408
@@ -1452,7 +1452,7 @@
   publisher: IEEE Transactions on Knowledge and Data Engineering
   date: '2017-10-01'
   link: https://doi.org/gbzdcj
-  image: images/papers/10.1109TKDE.2017.2721408.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TKDE.2017.2721408.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-017-1461-y
@@ -1466,7 +1466,7 @@
   publisher: BMC Bioinformatics
   date: '2017-02-11'
   link: https://doi.org/g8fj7n
-  image: images/papers/10.1186s12859-017-1461-y.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12859-017-1461-y.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-017-1828-0
@@ -1480,7 +1480,7 @@
   publisher: BMC Bioinformatics
   date: '2017-10-01'
   link: https://doi.org/g8n2f4
-  image: images/papers/10.1186s12859-017-1828-0.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12859-017-1828-0.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-017-1820-8
@@ -1496,7 +1496,7 @@
   publisher: BMC Bioinformatics
   date: '2017-10-01'
   link: https://doi.org/g8n2f5
-  image: images/papers/10.1186s12859-017-1820-8.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12859-017-1820-8.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-017-1819-1
@@ -1513,7 +1513,7 @@
   publisher: BMC Bioinformatics
   date: '2017-10-01'
   link: https://doi.org/g8n2f6
-  image: images/papers/10.1186s12859-017-1819-1.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12859-017-1819-1.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12918-017-0390-8
@@ -1529,7 +1529,7 @@
   publisher: BMC Systems Biology
   date: '2017-03-01'
   link: https://doi.org/g8n2f7
-  image: images/papers/10.1186s12918-017-0390-8.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12918-017-0390-8.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/cpe.3791
@@ -1544,7 +1544,7 @@
   publisher: 'Concurrency and Computation: Practice and Experience'
   date: '2016-02-24'
   link: https://doi.org/grfqxf
-  image: images/papers/10.1002cpe.3791.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1002cpe.3791.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.knosys.2017.01.029
@@ -1557,7 +1557,7 @@
   publisher: Knowledge-Based Systems
   date: '2017-04-01'
   link: https://doi.org/f92fg8
-  image: images/papers/10.1016j.knosys.2017.01.029.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.knosys.2017.01.029.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1142/S021962201450028X
@@ -1569,7 +1569,7 @@
   publisher: International Journal of Information Technology &amp; Decision Making
   date: '2017-09-01'
   link: https://doi.org/g8n2f8
-  image: images/papers/10.1142S021962201450028X.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1142S021962201450028X.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-017-15616-x
@@ -1582,7 +1582,7 @@
   publisher: Scientific Reports
   date: '2017-11-14'
   link: https://doi.org/gcmbqq
-  image: images/papers/10.1038s41598-017-15616-x.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1038s41598-017-15616-x.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2016.2570211
@@ -1598,7 +1598,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2018-11-01'
   link: https://doi.org/g8n2f9
-  image: images/papers/10.1109TCBB.2016.2570211.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TCBB.2016.2570211.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2015.11.108
@@ -1610,7 +1610,7 @@
   publisher: Neurocomputing
   date: '2016-09-01'
   link: https://doi.org/f82d5s
-  image: images/papers/10.1016j.neucom.2015.11.108.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.neucom.2015.11.108.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2015.11.107
@@ -1624,7 +1624,7 @@
   publisher: Neurocomputing
   date: '2016-09-01'
   link: https://doi.org/f82dj9
-  image: images/papers/10.1016j.neucom.2015.11.107.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.neucom.2015.11.107.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/aaai.v33i01.33013108
@@ -1639,7 +1639,7 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2019-07-17'
   link: https://doi.org/ghkjnx
-  image: images/papers/10.1109TAI.2024.3459857.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAI.2024.3459857.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-030-29908-8_8
@@ -1655,7 +1655,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2019-01-01'
   link: https://doi.org/g8n2h9
-  image: images/papers/10.1007978-3-030-29908-8_8.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-030-29908-8_8.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/aaai.v33i01.33015167
@@ -1668,7 +1668,7 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2019-07-17'
   link: https://doi.org/ghkjxw
-  image: images/papers/10.1109TPAMI.2024.3435503.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TPAMI.2024.3435503.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CVPR.2019.00651
@@ -1681,7 +1681,7 @@
   publisher: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   date: '2019-06-01'
   link: https://doi.org/g8n2jb
-  image: images/papers/10.1109CVPR.2019.00651.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109CVPR.2019.00651.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/aaai.v32i1.11555
@@ -1694,7 +1694,7 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2018-04-25'
   link: https://doi.org/g8n2jc
-  image: images/papers/10.1609aaai.v32i1.11555.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1609aaai.v32i1.11555.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12920-018-0433-z
@@ -1709,7 +1709,7 @@
   publisher: BMC Medical Genomics
   date: '2018-12-01'
   link: https://doi.org/g8n2jd
-  image: images/papers/10.1186s12920-018-0433-z.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12920-018-0433-z.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-018-2528-0
@@ -1722,7 +1722,7 @@
   publisher: BMC Bioinformatics
   date: '2018-12-01'
   link: https://doi.org/g8n2jf
-  image: images/papers/10.1186s12859-018-2528-0.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12859-018-2528-0.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/aaai.v31i1.10698
@@ -1735,7 +1735,7 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2017-02-12'
   link: https://doi.org/g8n2jg
-  image: images/papers/10.1609aaai.v31i1.10698.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1609aaai.v31i1.10698.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-319-71246-8_49
@@ -1747,7 +1747,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2017-01-01'
   link: https://doi.org/g8n2jh
-  image: images/papers/10.1007978-3-319-71246-8_49.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-319-71246-8_49.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-319-55753-3_37
@@ -1762,7 +1762,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2017-01-01'
   link: https://doi.org/g4hjqf
-  image: images/papers/10.1007978-3-319-55753-3_37.webp
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-319-55753-3_37.webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TSP.2019.2941067
@@ -1773,7 +1773,7 @@
   publisher: IEEE Transactions on Signal Processing
   date: '2019-11-01'
   link: https://doi.org/g8n2jj
-  image: images/papers/10.1109TSP.2019.2941067.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TSP.2019.2941067.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-319-64468-4_4
@@ -1786,7 +1786,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2017-01-01'
   link: https://doi.org/g8n2jk
-  image: images/papers/10.1007978-3-319-64468-4_4.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-319-64468-4_4.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12918-017-0504-3
@@ -1800,7 +1800,7 @@
   publisher: BMC Systems Biology
   date: '2017-12-01'
   link: https://doi.org/g8n2jm
-  image: images/papers/10.1186s12918-017-0504-3.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12918-017-0504-3.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-020-3502-1
@@ -1814,7 +1814,7 @@
   publisher: BMC Bioinformatics
   date: '2020-11-01'
   link: https://doi.org/g8n2jn
-  image: images/papers/10.1186s12859-020-3502-1.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12859-020-3502-1.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-319-39937-9_9
@@ -1828,7 +1828,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2016-01-01'
   link: https://doi.org/g8n2jq
-  image: images/papers/10.1007978-3-319-39937-9_9.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-319-39937-9_9.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-319-42297-8_42
@@ -1844,7 +1844,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2016-01-01'
   link: https://doi.org/g8n2jr
-  image: images/papers/10.1007978-3-319-42297-8_42.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-319-42297-8_42.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/BIBM.2015.7359651
@@ -1858,7 +1858,7 @@
     (BIBM)
   date: '2015-11-01'
   link: https://doi.org/g8n2jt
-  image: images/papers/10.1109BIBM.2015.7359651.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109BIBM.2015.7359651.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-319-18123-3_26
@@ -1872,7 +1872,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2015-01-01'
   link: https://doi.org/g8n2jz
-  image: images/papers/10.1007978-3-319-18123-3_26.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-319-18123-3_26.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/FSKD.2015.7382331
@@ -1886,7 +1886,7 @@
     (FSKD)
   date: '2015-08-01'
   link: https://doi.org/g75nbv
-  image: images/papers/10.1109FSKD.2015.7382331.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109FSKD.2015.7382331.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-319-21024-7_5
@@ -1898,7 +1898,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2015-01-01'
   link: https://doi.org/g8n2j2
-  image: images/papers/10.1007978-3-319-21024-7_5.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-319-21024-7_5.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/GEOINFORMATICS.2014.6950837
@@ -1911,7 +1911,7 @@
   publisher: 2014 22nd International Conference on Geoinformatics
   date: '2014-06-01'
   link: https://doi.org/g8n2j3
-  image: images/papers/10.1109GEOINFORMATICS.2014.6950837.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109GEOINFORMATICS.2014.6950837.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-319-08016-1_26
@@ -1924,7 +1924,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2014-01-01'
   link: https://doi.org/g8n2j4
-  image: images/papers/10.1007978-3-319-08016-1_26.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-319-08016-1_26.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.5441/002/edbt.2014.23
@@ -1938,7 +1938,7 @@
   publisher: OpenProceedings.org
   date: '2014-01-01'
   link: https://doi.org/g8n2j6
-  image: images/papers/10.5441002edbt.2014.23.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.5441002edbt.2014.23.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-662-43984-5_21
@@ -1950,7 +1950,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2014-01-01'
   link: https://doi.org/g8n2j8
-  image: images/papers/10.1007978-3-662-43984-5_21.webp
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-662-43984-5_21.webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.14778/2367502.2367549
@@ -1964,7 +1964,7 @@
   publisher: Proceedings of the VLDB Endowment
   date: '2012-08-01'
   link: https://doi.org/g8n2kq
-  image: images/papers/10.147782367502.2367549.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.147782367502.2367549.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/BIBM.2012.6392732
@@ -1977,7 +1977,7 @@
   publisher: 2012 IEEE International Conference on Bioinformatics and Biomedicine
   date: '2012-10-01'
   link: https://doi.org/g8n2kr
-  image: images/papers/10.1109BIBM.2012.6392732.gif
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109BIBM.2012.6392732.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISB.2012.6314137
@@ -1989,7 +1989,7 @@
   publisher: 2012 IEEE 6th International Conference on Systems Biology (ISB)
   date: '2012-08-01'
   link: https://doi.org/g8n2ks
-  image: images/papers/10.1109ISB.2012.6314137.gif
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109ISB.2012.6314137.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/BIBMW.2012.6470212
@@ -2004,7 +2004,7 @@
     Workshops
   date: '2012-10-01'
   link: https://doi.org/g8n2kt
-  image: images/papers/10.1109BIBMW.2012.6470212.gif
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109BIBMW.2012.6470212.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/BIBM.2011.13
@@ -2019,7 +2019,7 @@
   publisher: 2011 IEEE International Conference on Bioinformatics and Biomedicine
   date: '2011-11-01'
   link: https://doi.org/fzmqbz
-  image: images/papers/10.1109BIBM.2011.13.gif
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109BIBM.2011.13.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-642-20244-5_39
@@ -2032,7 +2032,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2011-01-01'
   link: https://doi.org/d5g4vb
-  image: images/papers/10.1007978-3-642-20244-5_39.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-642-20244-5_39.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-642-20244-5_2
@@ -2044,7 +2044,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2011-01-01'
   link: https://doi.org/c544jc
-  image: images/papers/10.1007978-3-642-20244-5_2.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-642-20244-5_2.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/BIBE.2009.55
@@ -2058,7 +2058,7 @@
   publisher: 2009 Ninth IEEE International Conference on Bioinformatics and BioEngineering
   date: '2009-06-01'
   link: https://doi.org/b5f7wq
-  image: images/papers/10.1109BIBE.2009.55.gif
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109BIBE.2009.55.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICDE.2007.369039
@@ -2069,7 +2069,7 @@
   publisher: 2007 IEEE 23rd International Conference on Data Engineering
   date: '2007-01-01'
   link: https://doi.org/b9zvbp
-  image: images/papers/10.1109ICDE.2007.369039.gif
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109ICDE.2007.369039.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-540-69830-2_7
@@ -2081,7 +2081,7 @@
   publisher: Lecture Notes in Computer Science
   date: ''
   link: https://doi.org/dkghnn
-  image: images/papers/10.1007978-3-540-69830-2_7.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-540-69830-2_7.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/1341012.1341074
@@ -2094,7 +2094,7 @@
     in geographic information systems
   date: '2007-11-07'
   link: https://doi.org/bx6w24
-  image: images/papers/10.11451341012.1341074.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11451341012.1341074.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btp500
@@ -2107,7 +2107,7 @@
   publisher: Bioinformatics
   date: '2009-08-25'
   link: https://doi.org/bzxhxq
-  image: images/papers/10.1093bioinformaticsbtp500.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093bioinformaticsbtp500.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btp359
@@ -2120,7 +2120,7 @@
   publisher: Bioinformatics
   date: '2009-06-10'
   link: https://doi.org/bb3r29
-  image: images/papers/10.1093bioinformaticsbtp359.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093bioinformaticsbtp359.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1103/PhysRevE.79.031110
@@ -2135,7 +2135,7 @@
   publisher: Physical Review E
   date: '2009-03-13'
   link: https://doi.org/c6g2s3
-  image: images/papers/10.1103PhysRevE.79.031110.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1103PhysRevE.79.031110.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1103/PhysRevE.79.021127
@@ -2150,7 +2150,7 @@
   publisher: Physical Review E
   date: '2009-02-25'
   link: https://doi.org/bvqcp6
-  image: images/papers/10.1103PhysRevE.79.021127.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1103PhysRevE.79.021127.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1063/1.3094757
@@ -2165,7 +2165,7 @@
   publisher: Journal of Mathematical Physics
   date: '2009-03-01'
   link: https://doi.org/cdc3br
-  image: images/papers/10.10631.3094757.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.10631.3094757.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1088/1742-5468/2009/02/P02034
@@ -2180,7 +2180,7 @@
   publisher: 'Journal of Statistical Mechanics: Theory and Experiment'
   date: '2009-02-12'
   link: https://doi.org/cdrqd2
-  image: images/papers/10.10881742-5468200902P02034.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.10881742-5468200902P02034.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/ietisy/e91-d.7.1982
@@ -2192,7 +2192,7 @@
   publisher: IEICE Transactions on Information and Systems
   date: '2008-07-01'
   link: https://doi.org/fpjr8h
-  image: images/papers/10.1093ietisye91-d.7.1982.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093ietisye91-d.7.1982.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ipm.2008.03.001
@@ -2205,7 +2205,7 @@
   publisher: Information Processing &amp; Management
   date: '2008-07-01'
   link: https://doi.org/dnfgbq
-  image: images/papers/10.1016j.ipm.2008.03.001.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.ipm.2008.03.001.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1103/PhysRevE.77.017102
@@ -2220,7 +2220,7 @@
   publisher: Physical Review E
   date: '2008-01-16'
   link: https://doi.org/fqw52s
-  image: images/papers/10.1103PhysRevE.77.017102.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1103PhysRevE.77.017102.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1140/epjb/e2008-00305-8
@@ -2234,7 +2234,7 @@
   publisher: The European Physical Journal B
   date: '2008-08-11'
   link: https://doi.org/b5kmpt
-  image: images/papers/10.1140epjbe2008-00305-8.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1140epjbe2008-00305-8.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1140/epjb/e2008-00299-1
@@ -2247,7 +2247,7 @@
   publisher: The European Physical Journal B
   date: '2008-07-01'
   link: https://doi.org/bf2jt6
-  image: images/papers/10.1140epjbe2008-00299-1.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1140epjbe2008-00299-1.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1140/epjb/e2008-00262-2
@@ -2260,7 +2260,7 @@
   publisher: The European Physical Journal B
   date: '2008-06-01'
   link: https://doi.org/fsv47v
-  image: images/papers/10.1140epjbe2008-00262-2.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1140epjbe2008-00262-2.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1088/1751-8113/41/18/185101
@@ -2274,7 +2274,7 @@
   publisher: 'Journal of Physics A: Mathematical and Theoretical'
   date: '2008-04-18'
   link: https://doi.org/dhh3t8
-  image: images/papers/10.10881751-81134118185101.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.10881751-81134118185101.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1209/0295-5075/79/38007
@@ -2289,7 +2289,7 @@
   publisher: Europhysics Letters (EPL)
   date: '2007-07-16'
   link: https://doi.org/cqk2qw
-  image: images/papers/10.12090295-50757938007.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.12090295-50757938007.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1140/epjb/e2007-00344-7
@@ -2303,7 +2303,7 @@
   publisher: The European Physical Journal B
   date: '2007-11-01'
   link: https://doi.org/cvh2rr
-  image: images/papers/10.1140epjbe2007-00344-7.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1140epjbe2007-00344-7.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.physa.2007.02.045
@@ -2317,7 +2317,7 @@
   publisher: 'Physica A: Statistical Mechanics and its Applications'
   date: '2007-07-01'
   link: https://doi.org/cbpbmm
-  image: images/papers/10.1016j.physa.2007.02.045.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.physa.2007.02.045.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ymeth.2016.06.024
@@ -2331,7 +2331,7 @@
   publisher: Methods
   date: '2016-11-01'
   link: https://doi.org/f9cgd3
-  image: images/papers/10.1016j.ymeth.2016.06.024.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.ymeth.2016.06.024.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-016-1331-z
@@ -2345,7 +2345,7 @@
   publisher: BMC Bioinformatics
   date: '2016-12-01'
   link: https://doi.org/g8n4z6
-  image: images/papers/10.1186s12859-016-1331-z.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12859-016-1331-z.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-016-1336-7
@@ -2360,7 +2360,7 @@
   publisher: BMC Bioinformatics
   date: '2016-12-01'
   link: https://doi.org/gf6v27
-  image: images/papers/10.1186s12859-016-1336-7.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12859-016-1336-7.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12918-016-0362-4
@@ -2376,7 +2376,7 @@
   publisher: BMC Systems Biology
   date: '2016-12-01'
   link: https://doi.org/g8n4z7
-  image: images/papers/10.1186s12918-016-0362-4.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1186s12918-016-0362-4.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.compbiolchem.2016.09.007
@@ -2388,7 +2388,7 @@
   publisher: Computational Biology and Chemistry
   date: '2016-12-01'
   link: https://doi.org/f9hrj6
-  image: images/papers/10.1016j.compbiolchem.2016.09.007.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.compbiolchem.2016.09.007.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2015.2430350
@@ -2401,7 +2401,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2015-11-01'
   link: https://doi.org/g8n4z8
-  image: images/papers/10.1109TCBB.2015.2430350.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TCBB.2015.2430350.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2015.2430331
@@ -2413,7 +2413,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2015-11-01'
   link: https://doi.org/gpf466
-  image: images/papers/10.1109TCBB.2015.2430331.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TCBB.2015.2430331.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btv256
@@ -2428,7 +2428,7 @@
   publisher: Bioinformatics
   date: '2015-06-10'
   link: https://doi.org/g8n2jw
-  image: images/papers/10.1093bioinformaticsbtv256.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093bioinformaticsbtv256.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ins.2015.06.033
@@ -2441,7 +2441,7 @@
   publisher: Information Sciences
   date: '2015-12-01'
   link: https://doi.org/f7sz62
-  image: images/papers/10.1016j.ins.2015.06.033.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.ins.2015.06.033.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1142/S021972001541005X
@@ -2467,7 +2467,7 @@
   publisher: IET Systems Biology
   date: '2015-08-01'
   link: https://doi.org/f7zqb7
-  image: images/papers/10.1049iet-syb.2014.0053.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1049iet-syb.2014.0053.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jss.2014.11.038
@@ -2480,7 +2480,7 @@
   publisher: Journal of Systems and Software
   date: '2015-03-01'
   link: https://doi.org/gj428x
-  image: images/papers/10.1016j.jss.2014.11.038.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.jss.2014.11.038.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1471-2164-16-S3-S5
@@ -2492,7 +2492,7 @@
   publisher: BMC Genomics
   date: '2015-01-29'
   link: https://doi.org/gb3hv8
-  image: images/papers/10.11861471-2164-16-S3-S5.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11861471-2164-16-S3-S5.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1471-2105-16-S5-S2
@@ -2505,7 +2505,7 @@
   publisher: BMC Bioinformatics
   date: '2015-03-18'
   link: https://doi.org/gb8w7m
-  image: images/papers/10.11861471-2105-16-S5-S2.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11861471-2105-16-S5-S2.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/srep17481
@@ -2519,7 +2519,7 @@
   publisher: Scientific Reports
   date: '2015-12-09'
   link: https://doi.org/f72x46
-  image: images/papers/10.1038srep17481.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1038srep17481.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1142/S0217979215500721
@@ -2544,7 +2544,7 @@
   publisher: Chinese Physics Letters
   date: '2015-03-01'
   link: https://doi.org/g8n42c
-  image: images/papers/10.10880256-307X323030501.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.10880256-307X323030501.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1155/2015/325474
@@ -2557,7 +2557,7 @@
   publisher: International Journal of Distributed Sensor Networks
   date: '2015-05-01'
   link: https://doi.org/gb6bzn
-  image: images/papers/10.11552015325474.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11552015325474.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2014.2306825
@@ -2569,7 +2569,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2014-07-01'
   link: https://doi.org/g8n42d
-  image: images/papers/10.1109TCBB.2014.2306825.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TCBB.2014.2306825.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/srep06224
@@ -2582,7 +2582,7 @@
   publisher: Scientific Reports
   date: '2014-08-29'
   link: https://doi.org/ggczqz
-  image: images/papers/10.1038srep06224.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1038srep06224.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1471-2164-15-1148
@@ -2596,7 +2596,7 @@
   publisher: BMC Genomics
   date: '2014-12-01'
   link: https://doi.org/f6xpgt
-  image: images/papers/10.11861471-2164-15-1148.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11861471-2164-15-1148.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bib/bbt062
@@ -2611,7 +2611,7 @@
   publisher: Briefings in Bioinformatics
   date: '2013-09-10'
   link: https://doi.org/f6qxn2
-  image: images/papers/10.1093bibbbt062.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093bibbbt062.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bib/bbt014
@@ -2625,7 +2625,7 @@
   publisher: Briefings in Bioinformatics
   date: '2013-03-19'
   link: https://doi.org/f6kthb
-  image: images/papers/10.1093bibbbt014.jpeg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093bibbbt014.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.gpb.2013.06.001
@@ -2639,7 +2639,7 @@
   publisher: Genomics, Proteomics &amp; Bioinformatics
   date: '2013-08-08'
   link: https://doi.org/g8n42f
-  image: images/papers/10.1016j.gpb.2013.06.001.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.gpb.2013.06.001.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/nar/gku437
@@ -2655,7 +2655,7 @@
   publisher: Nucleic Acids Research
   date: '2014-05-22'
   link: https://doi.org/f6b7vp
-  image: images/papers/10.1093nargku437.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093nargku437.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2014.05.075
@@ -2669,7 +2669,7 @@
   publisher: Neurocomputing
   date: '2014-12-01'
   link: https://doi.org/g8n2kc
-  image: images/papers/10.1016j.neucom.2014.05.075.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.neucom.2014.05.075.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2013.137
@@ -2683,7 +2683,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2014-01-01'
   link: https://doi.org/g8n42g
-  image: images/papers/10.1109TCBB.2013.137.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TCBB.2013.137.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2013.131
@@ -2697,7 +2697,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2014-01-01'
   link: https://doi.org/g8n42h
-  image: images/papers/10.1109TCBB.2013.131.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TCBB.2013.131.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1504/IJCBDD.2014.061643
@@ -2724,7 +2724,7 @@
   publisher: IEEE Transactions on Geoscience and Remote Sensing
   date: '2014-08-01'
   link: https://doi.org/gtxxnp
-  image: images/papers/10.1109TGRS.2013.2285814.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TGRS.2013.2285814.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.physa.2014.08.029
@@ -2736,7 +2736,7 @@
   publisher: 'Physica A: Statistical Mechanics and its Applications'
   date: '2014-12-01'
   link: https://doi.org/f6mxnk
-  image: images/papers/10.1016j.physa.2014.08.029.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.physa.2014.08.029.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/comjnl/bxt106
@@ -2749,7 +2749,7 @@
   publisher: The Computer Journal
   date: '2013-10-06'
   link: https://doi.org/f6pvhm
-  image: images/papers/10.1093comjnlbxt106.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1093comjnlbxt106.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1089/cmb.2013.0083
@@ -2765,7 +2765,7 @@
   publisher: Journal of Computational Biology
   date: '2013-11-01'
   link: https://doi.org/f5ftsp
-  image: images/papers/10.1089cmb.2013.0083.jpeg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1089cmb.2013.0083.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1142/S0219720013300025
@@ -2791,7 +2791,7 @@
   publisher: BMC Bioinformatics
   date: '2013-09-01'
   link: https://doi.org/g8n42k
-  image: images/papers/10.11861471-2105-14-S12-S4.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11861471-2105-14-S12-S4.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.datak.2013.03.004
@@ -2804,7 +2804,7 @@
   publisher: Data &amp; Knowledge Engineering
   date: '2013-07-01'
   link: https://doi.org/f43j7j
-  image: images/papers/10.1016j.datak.2013.03.004.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.datak.2013.03.004.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TITB.2012.2229286
@@ -2817,7 +2817,7 @@
   publisher: IEEE Journal of Biomedical and Health Informatics
   date: '2013-03-01'
   link: https://doi.org/ggns2n
-  image: images/papers/10.1109TITB.2012.2229286.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TITB.2012.2229286.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1103/PhysRevE.87.032133
@@ -2831,7 +2831,7 @@
   publisher: Physical Review E
   date: '2013-03-15'
   link: https://doi.org/g8n42m
-  image: images/papers/10.1103PhysRevE.87.032133.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1103PhysRevE.87.032133.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jss.2012.11.025
@@ -2845,7 +2845,7 @@
   publisher: Journal of Systems and Software
   date: '2013-03-01'
   link: https://doi.org/g8n42n
-  image: images/papers/10.1016j.jss.2012.11.025.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.jss.2012.11.025.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1752-0509-6-S2-S6
@@ -2860,7 +2860,7 @@
   publisher: BMC Systems Biology
   date: '2012-12-01'
   link: https://doi.org/gb3qdx
-  image: images/papers/10.11861752-0509-6-S2-S6.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11861752-0509-6-S2-S6.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.gpb.2012.09.003
@@ -2872,7 +2872,7 @@
   publisher: Genomics, Proteomics &amp; Bioinformatics
   date: '2012-10-01'
   link: https://doi.org/f4h7q4
-  image: images/papers/10.1016j.gpb.2012.09.003.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.gpb.2012.09.003.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1471-2164-13-S8-S15
@@ -2886,7 +2886,7 @@
   publisher: BMC Genomics
   date: '2012-12-01'
   link: https://doi.org/g8n42p
-  image: images/papers/10.11861471-2164-13-S8-S15.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11861471-2164-13-S8-S15.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1471-2164-13-S3-S3
@@ -2901,7 +2901,7 @@
   publisher: BMC Genomics
   date: '2012-06-01'
   link: https://doi.org/g8n42q
-  image: images/papers/10.11861471-2164-13-S3-S3.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11861471-2164-13-S3-S3.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1471-2229-12-68
@@ -2918,7 +2918,7 @@
   publisher: BMC Plant Biology
   date: '2012-05-14'
   link: https://doi.org/f4gzvf
-  image: images/papers/10.11861471-2229-12-68.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11861471-2229-12-68.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1471-2105-13-4
@@ -2931,7 +2931,7 @@
   publisher: BMC Bioinformatics
   date: '2012-01-07'
   link: https://doi.org/fx23qd
-  image: images/papers/10.11861471-2105-13-4.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11861471-2105-13-4.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1471-2105-13-49
@@ -2945,7 +2945,7 @@
   publisher: BMC Bioinformatics
   date: '2012-03-26'
   link: https://doi.org/gb8vh4
-  image: images/papers/10.11861471-2105-13-49.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11861471-2105-13-49.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2011.11.022
@@ -2958,7 +2958,7 @@
   publisher: Neurocomputing
   date: '2012-09-01'
   link: https://doi.org/f33n7w
-  image: images/papers/10.1016j.neucom.2011.11.022.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.neucom.2011.11.022.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1504/ijdmb.2012.048174
@@ -2985,7 +2985,7 @@
   publisher: Journal of Network and Systems Management
   date: '2011-07-23'
   link: https://doi.org/bgz856
-  image: images/papers/10.1007s10922-011-9203-3.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007s10922-011-9203-3.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MCAS.2011.2181075
@@ -3000,7 +3000,7 @@
   publisher: IEEE Circuits and Systems Magazine
   date: '2012-01-01'
   link: https://doi.org/g8n42r
-  image: images/papers/10.1109MCAS.2011.2181075.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109MCAS.2011.2181075.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1103/PhysRevE.83.066120
@@ -3013,7 +3013,7 @@
   publisher: Physical Review E
   date: '2011-06-30'
   link: https://doi.org/b2zn5f
-  image: images/papers/10.1103PhysRevE.83.066120.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1103PhysRevE.83.066120.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.physa.2010.09.038
@@ -3026,7 +3026,7 @@
   publisher: 'Physica A: Statistical Mechanics and its Applications'
   date: '2011-02-01'
   link: https://doi.org/br4pfr
-  image: images/papers/10.1016j.physa.2010.09.038.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.physa.2010.09.038.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.physa.2010.04.003
@@ -3039,7 +3039,7 @@
   publisher: 'Physica A: Statistical Mechanics and its Applications'
   date: '2010-08-01'
   link: https://doi.org/djcq97
-  image: images/papers/10.1016j.physa.2010.04.003.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.physa.2010.04.003.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1471-2105-12-216
@@ -3052,7 +3052,7 @@
   publisher: BMC Bioinformatics
   date: '2011-05-28'
   link: https://doi.org/c827qb
-  image: images/papers/10.11861471-2105-12-216.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11861471-2105-12-216.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2174/092986611796011419
@@ -3090,7 +3090,7 @@
   publisher: 'Physica A: Statistical Mechanics and its Applications'
   date: '2011-01-01'
   link: https://doi.org/fwptts
-  image: images/papers/10.1016j.physa.2010.09.027.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.physa.2010.09.027.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1471-2105-11-S11-S11
@@ -3103,7 +3103,7 @@
   publisher: BMC Bioinformatics
   date: '2010-12-01'
   link: https://doi.org/d7fv3q
-  image: images/papers/10.11861471-2105-11-S11-S11.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11861471-2105-11-S11-S11.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1504/ijdmb.2010.037545
@@ -3127,7 +3127,7 @@
   publisher: Journal of Systems and Software
   date: '2010-10-01'
   link: https://doi.org/c4kqt8
-  image: images/papers/10.1016j.jss.2010.04.069.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.jss.2010.04.069.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jnca.2009.11.003
@@ -3155,7 +3155,7 @@
   publisher: Protein &amp; Peptide Letters
   date: '2010-06-01'
   link: https://doi.org/dkm8sp
-  image: images/papers/10.2174092986610791190336.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.2174092986610791190336.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1471-2105-10-426
@@ -3168,7 +3168,7 @@
   publisher: BMC Bioinformatics
   date: '2009-12-01'
   link: https://doi.org/cskrgh
-  image: images/papers/10.11861471-2105-10-426.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11861471-2105-10-426.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1080/13658816.2018.1520236
@@ -3184,7 +3184,7 @@
   publisher: International Journal of Geographical Information Science
   date: '2018-09-20'
   link: https://doi.org/gfc8jq
-  image: images/papers/10.108013658816.2018.1520236.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.108013658816.2018.1520236.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.pmcj.2017.03.015
@@ -3198,7 +3198,7 @@
   publisher: Pervasive and Mobile Computing
   date: '2017-10-01'
   link: https://doi.org/gch47d
-  image: images/papers/10.1016j.pmcj.2017.03.015.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.pmcj.2017.03.015.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3132847.3132948
@@ -3215,7 +3215,7 @@
     Management
   date: '2017-11-06'
   link: https://doi.org/g8rfzg
-  image: images/papers/10.11453132847.3132948.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453132847.3132948.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/SMARTCOMP.2016.7501704
@@ -3228,7 +3228,7 @@
   publisher: 2016 IEEE International Conference on Smart Computing (SMARTCOMP)
   date: '2016-05-01'
   link: https://doi.org/g8rfzh
-  image: images/papers/10.1109SMARTCOMP.2016.7501704.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109SMARTCOMP.2016.7501704.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3511808.3557549
@@ -3242,7 +3242,7 @@
     Knowledge Management
   date: '2022-10-17'
   link: https://doi.org/g8rcf7
-  image: images/papers/10.11453511808.3557549.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453511808.3557549.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TBDATA.2020.2988273
@@ -3256,7 +3256,7 @@
   publisher: IEEE Transactions on Big Data
   date: '2022-06-01'
   link: https://doi.org/gmgg9w
-  image: images/papers/10.1109TBDATA.2020.2988273.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TBDATA.2020.2988273.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TSC.2019.2941680
@@ -3271,7 +3271,7 @@
   publisher: IEEE Transactions on Services Computing
   date: '2022-01-01'
   link: https://doi.org/g8rcf8
-  image: images/papers/10.1109TSC.2019.2941680.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TSC.2019.2941680.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3340531.3412076
@@ -3287,7 +3287,7 @@
     Knowledge Management
   date: '2020-10-19'
   link: https://doi.org/g8rcf9
-  image: images/papers/10.11453340531.3412076.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453340531.3412076.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-030-59419-0_48
@@ -3307,7 +3307,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2020-01-01'
   link: https://doi.org/g8rcgb
-  image: images/papers/10.1007978-3-030-59419-0_48.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-3-030-59419-0_48.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TNSE.2024.3481434
@@ -3324,7 +3324,7 @@
   publisher: IEEE Transactions on Network Science and Engineering
   date: '2025-01-01'
   link: https://doi.org/g8tbvq
-  image: images/papers/10.1109TNSE.2024.3481434.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TNSE.2024.3481434.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.oceaneng.2024.119530
@@ -3339,7 +3339,7 @@
   publisher: Ocean Engineering
   date: '2024-12-01'
   link: https://doi.org/g8tbvr
-  image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/large/008K2OkEly1i31ygpam2lj30jr0e5n00.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.oceaneng.2024.119530.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2024.3506058
@@ -3358,7 +3358,7 @@
   publisher: IEEE Transactions on Geoscience and Remote Sensing
   date: '2024-01-01'
   link: https://doi.org/g8tthj
-  image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i31yglviz6j31r50u0tgz.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TGRS.2024.3506058.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CVPR52734.2025.01663
@@ -3373,7 +3373,7 @@
   publisher: 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   date: '2025-06-10'
   link: https://doi.org/g96sdc
-  image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEly1i31yg2wxc7j31ii0u0n4y.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109CVPR52734.2025.01663.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TAI.2025.3548621
@@ -3389,7 +3389,7 @@
   publisher: IEEE Transactions on Artificial Intelligence
   date: '2025-11-01'
   link: https://doi.org/g87kw4
-  image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEly1i31yghapqxj313a0u0jxh.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAI.2025.3548621.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2025.3550372
@@ -3404,7 +3404,7 @@
   publisher: IEEE Transactions on Geoscience and Remote Sensing
   date: '2025-01-01'
   link: https://doi.org/g9bd2d
-  image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEgy1i31ybi8airj31c60u0tfa.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TGRS.2025.3550372.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3712607
@@ -3418,7 +3418,7 @@
   publisher: ACM Transactions on Intelligent Systems and Technology
   date: '2025-04-16'
   link: https://doi.org/g87zcj
-  image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEly1i31ygdtxcqj318l0u0n2r.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453712607.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2025.3555634
@@ -3436,7 +3436,7 @@
   publisher: IEEE Transactions on Geoscience and Remote Sensing
   date: '2025-01-01'
   link: https://doi.org/g9bd2g
-  image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/large/008K2OkEgy1i31yb8fuy2j31yj0u07cu.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TGRS.2025.3555634.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TAFFC.2025.3559866
@@ -3449,7 +3449,7 @@
   publisher: IEEE Transactions on Affective Computing
   date: '2025-07-01'
   link: https://doi.org/g9mc8x
-  image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEgy1i31yb1y6glj30t20n278v.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAFFC.2025.3559866.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3735646
@@ -3466,7 +3466,7 @@
   publisher: ACM Transactions on Intelligent Systems and Technology
   date: '2025-07-22'
   link: https://doi.org/g9mc8z
-  image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/large/008K2OkEgy1i31yaygv3rj30n40gwq5a.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453735646.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/LGRS.2025.3563458
@@ -3481,7 +3481,7 @@
   publisher: IEEE Geoscience and Remote Sensing Letters
   date: '2025-01-01'
   link: https://doi.org/g9mc82
-  image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEgy1i31yatvdjgj30s90ft423.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109LGRS.2025.3563458.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.jcim.5c00577
@@ -3495,7 +3495,7 @@
   publisher: Journal of Chemical Information and Modeling
   date: '2025-05-20'
   link: https://doi.org/g9mc83
-  image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/mw690/008K2OkEgy1i30oi0foohj30n409iaax.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1021acs.jcim.5c00577.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2025.130509
@@ -3509,7 +3509,7 @@
   publisher: Neurocomputing
   date: '2025-10-01'
   link: https://doi.org/g9r3zp
-  image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEgy1i30ohnjmaej31g50hv794.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.neucom.2025.130509.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1142/S0219720025500064
@@ -3528,7 +3528,7 @@
   publisher: Journal of Bioinformatics and Computational Biology
   date: '2025-04-01'
   link: https://doi.org/g9r3zq
-  image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/large/008K2OkEgy1i30ohqubjij310q0beaby.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1142S0219720025500064.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3745029
@@ -3544,7 +3544,7 @@
   publisher: ACM Transactions on Knowledge Discovery from Data
   date: '2025-08-21'
   link: https://doi.org/g9r3zr
-  image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEgy1i30ohuddfpj31700lwjvq.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453745029.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/rs17132117
@@ -3559,7 +3559,7 @@
   publisher: Remote Sensing
   date: '2025-06-20'
   link: https://doi.org/g9r3zs
-  image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/large/008K2OkEgy1i30ohxn2k8j31ix0u0wls.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.3390rs17132117.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3748259
@@ -3576,7 +3576,7 @@
   publisher: ACM Transactions on Knowledge Discovery from Data
   date: '2025-08-21'
   link: https://doi.org/g974hd
-  image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/mw690/008K2OkEly1i6pu6u1p9mj30a106hjrx.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453748259.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3748658
@@ -3593,7 +3593,7 @@
   publisher: ACM Transactions on Intelligent Systems and Technology
   date: '2025-10-16'
   link: https://doi.org/g974hf
-  image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/mw690/008K2OkEly1i6pu6s4er0j30hs0agmyw.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453748658.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TAI.2025.3596930
@@ -3610,7 +3610,7 @@
   publisher: IEEE Transactions on Artificial Intelligence
   date: '2026-03-01'
   link: https://doi.org/g974hg
-  image: https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/mw690/008K2OkEly1i6pu6ojfnxj30y00u0dq4.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAI.2025.3596930.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TAI.2025.3602409
@@ -3625,7 +3625,7 @@
   publisher: IEEE Transactions on Artificial Intelligence
   date: '2026-03-01'
   link: https://doi.org/g974hh
-  image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/mw690/008K2OkEly1i6pu6lpxs8j313a0lajvk.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAI.2025.3602409.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3769297
@@ -3644,7 +3644,7 @@
   publisher: ACM Transactions on Knowledge Discovery from Data
   date: '2025-11-06'
   link: https://doi.org/g974hk
-  image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/mw690/008K2OkEly1i6pu6hk5umj30yy0fudjm.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453769297.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2025.3624051
@@ -3661,7 +3661,7 @@
   publisher: IEEE Transactions on Geoscience and Remote Sensing
   date: '2025-01-01'
   link: https://doi.org/g974mr
-  image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/mw690/008K2OkEly1i6pyfknw8jj313s0fe0vx.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TGRS.2025.3624051.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.eswa.2026.131618
@@ -3678,7 +3678,7 @@
   publisher: Expert Systems with Applications
   date: '2026-06-01'
   link: https://doi.org/hbsqfs
-  image: https://image.baidu.com/search/down?url=https://wx4.sinaimg.cn/small/008K2OkEly1ib8ur9ay86j30hs0fv0vb.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.eswa.2026.131618.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/rs18040662
@@ -3693,7 +3693,7 @@
   publisher: Remote Sensing
   date: '2026-02-22'
   link: https://doi.org/hbsqft
-  image: https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/small/008K2OkEly1ib8uvpfc9rj31ko0u0qb4.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.3390rs18040662.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.eswa.2026.133367
@@ -3710,7 +3710,7 @@
   publisher: Expert Systems with Applications
   date: '2026-12-01'
   link: https://doi.org/hch389
-  image: images/papers/10.1016j.eswa.2026.133367.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.eswa.2026.133367.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.eswa.2026.133953
@@ -3728,7 +3728,7 @@
   publisher: Expert Systems with Applications
   date: '2027-01-01'
   link: https://doi.org/hch39b
-  image: images/papers/10.1016j.eswa.2026.133953.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.eswa.2026.133953.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ins.2026.124035
@@ -3745,7 +3745,7 @@
   publisher: Information Sciences
   date: '2027-01-01'
   link: https://doi.org/hch39c
-  image: images/papers/10.1016j.ins.2026.124035.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.ins.2026.124035.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2025.132540
@@ -3761,7 +3761,7 @@
   publisher: Neurocomputing
   date: '2026-03-01'
   link: https://doi.org/hch39d
-  image: images/papers/10.1016j.neucom.2025.132540.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.neucom.2025.132540.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/BIBM66473.2025.11356714
@@ -3777,7 +3777,7 @@
     (BIBM)
   date: '2025-12-15'
   link: https://doi.org/hch39f
-  image: images/papers/10.1109BIBM66473.2025.11356714.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109BIBM66473.2025.11356714.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TKDE.2026.3674110
@@ -3797,7 +3797,7 @@
   publisher: IEEE Transactions on Knowledge and Data Engineering
   date: '2026-05-01'
   link: https://doi.org/hch39g
-  image: images/papers/10.1109TKDE.2026.3674110.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TKDE.2026.3674110.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TNSE.2024.3523300
@@ -3813,7 +3813,7 @@
   publisher: IEEE Transactions on Network Science and Engineering
   date: '2025-03-01'
   link: https://doi.org/hch39h
-  image: images/papers/10.1109TNSE.2024.3523300.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TNSE.2024.3523300.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3770855.3818995
@@ -3831,7 +3831,7 @@
     and Data Mining V.2
   date: '2026-08-08'
   link: https://doi.org/hch39j
-  image: images/papers/10.11453770855.3818995.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453770855.3818995.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2139/ssrn.4882303
@@ -3844,7 +3844,7 @@
   publisher: Elsevier BV
   date: '2024-01-01'
   link: https://doi.org/hch39k
-  image: images/papers/10.2139ssrn.4882303.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.2139ssrn.4882303.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.inffus.2026.104794
@@ -3860,7 +3860,7 @@
   publisher: Information Fusion
   date: '2027-03-01'
   link: https://doi.org/hcqjwj
-  image: images/papers/10.1016j.inffus.2026.104794.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.inffus.2026.104794.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2139/ssrn.6659351
@@ -3877,7 +3877,7 @@
   publisher: Elsevier BV
   date: '2026-01-01'
   link: https://doi.org/hch39n
-  image: images/papers/10.2139ssrn.6659351.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.2139ssrn.6659351.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.eswa.2026.134587
@@ -3896,7 +3896,7 @@
   publisher: Expert Systems with Applications
   date: '2027-02-01'
   link: https://doi.org/hcqjwk
-  image: images/papers/10.1016j.eswa.2026.134587.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.eswa.2026.134587.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-981-92-0366-6_17
@@ -3911,7 +3911,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2026-01-01'
   link: https://doi.org/hcqjwm
-  image: images/papers/10.1007978-981-92-0366-6_17.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1007978-981-92-0366-6_17.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2604.23239
@@ -3928,7 +3928,7 @@
   publisher: arXiv
   date: '2026-01-01'
   link: https://doi.org/hcqjwn
-  image: images/papers/10.48550arXiv.2604.23239.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.48550arXiv.2604.23239.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2604.18344
@@ -3946,7 +3946,7 @@
   publisher: arXiv
   date: '2026-01-01'
   link: https://doi.org/hcqjwp
-  image: images/papers/10.48550arXiv.2604.18344.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.48550arXiv.2604.18344.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2605.00860
@@ -3963,7 +3963,7 @@
   publisher: arXiv
   date: '2026-01-01'
   link: https://doi.org/hcqjwq
-  image: images/papers/10.48550arXiv.2605.00860.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.48550arXiv.2605.00860.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2605.21381
@@ -3979,7 +3979,7 @@
   publisher: arXiv
   date: '2026-01-01'
   link: https://doi.org/hcqjwr
-  image: images/papers/10.48550arXiv.2605.21381.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.48550arXiv.2605.21381.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2608.23400
@@ -3995,7 +3995,7 @@
   publisher: arXiv
   date: '2026-01-01'
   link: https://doi.org/hcqjws
-  image: images/papers/10.48550arXiv.2608.23400.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.48550arXiv.2608.23400.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.eswa.2026.134391
@@ -4010,7 +4010,7 @@
   publisher: Expert Systems with Applications
   date: '2027-02-01'
   link: https://doi.org/hcqjzn
-  image: images/papers/10.1016j.eswa.2026.134391.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.eswa.2026.134391.png
   plugin: sources.py
   file: sources.yaml
 - title: Heterogeneous Fusion of Spectrogram and Waveform with Sub-band Adaptation
@@ -4024,6 +4024,6 @@
   publisher: Ocean Engineering (Elsevier)
   date: '2026-11-05'
   description: Accepted, 2026.
-  image: images/papers/swan-accepted-2026.png
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/swan-accepted-2026.png
   plugin: sources.py
   file: sources.yaml
