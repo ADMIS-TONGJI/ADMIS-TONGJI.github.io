@@ -1,6 +1,6 @@
 ---
 name: 黄瑞祺 (Ruiqi Huang)
-image: images/people/huangruiqi.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/huangruiqi.jpg
 role: current_master
 
 aliases:
