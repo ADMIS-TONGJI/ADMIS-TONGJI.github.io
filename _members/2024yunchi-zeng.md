@@ -1,6 +1,6 @@
 ---
 name: 曾云驰 (Yunchi Zeng)
-image: images/people/zengyunchi.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/zengyunchi.jpg
 role: current_master
 
 aliases:

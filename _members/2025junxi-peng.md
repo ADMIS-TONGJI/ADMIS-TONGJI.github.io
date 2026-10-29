@@ -1,6 +1,6 @@
 ---
 name: 彭俊熙 (Junxi Peng)
-image: images/people/pengjunxi.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/pengjunxi.jpg
 role: current_master
 
 aliases:

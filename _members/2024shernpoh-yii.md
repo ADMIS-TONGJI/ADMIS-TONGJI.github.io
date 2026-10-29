@@ -1,6 +1,6 @@
 ---
 name: 俞舜宝 (Yii Shern Poh)
-image: images/people/yiishernpoh.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/yiishernpoh.jpg
 role: current_master
 
 aliases:

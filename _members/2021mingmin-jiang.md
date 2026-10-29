@@ -1,6 +1,6 @@
 ---
 name: 蒋明敏 (Mingmin Jiang)
-image: images/people/jiangmingmin.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/jiangmingmin.jpg
 role: current_phd
 
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: 彭兆祥 (Zhaoxiang Peng)
-image: images/people/pengzhaoxiang.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/pengzhaoxiang.jpg
 role: current_master
 
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: 汪宇晗 (Yuhan Wang)
-image: images/people/wangyuhan.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/wangyuhan.jpg
 role: graduated_master
 
 aliases:

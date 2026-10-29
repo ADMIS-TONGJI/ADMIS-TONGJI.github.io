@@ -1,6 +1,6 @@
 ---
 name: 张子祥 (Zixiang Zhang)
-image: images/people/zhangzixiang.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/zhangzixiang.jpg
 role: current_master
 
 aliases:

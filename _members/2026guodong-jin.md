@@ -1,6 +1,6 @@
 ---
 name: 金国栋 (Guodong Jin)
-image: images/people/jinguodong.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/jinguodong.jpg
 role: current_master
 
 aliases:

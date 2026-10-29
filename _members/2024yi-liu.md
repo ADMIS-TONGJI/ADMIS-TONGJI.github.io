@@ -1,6 +1,6 @@
 ---
 name: 刘毅 (Yi Liu)
-image: images/people/liuyi.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/liuyi.jpg
 role: current_master
 
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: 李杰 (Jie Li)
-image: images/people/lijie.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/lijie.jpg
 role: current_master
 
 aliases:

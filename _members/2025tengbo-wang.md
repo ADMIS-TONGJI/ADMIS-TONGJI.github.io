@@ -1,6 +1,6 @@
 ---
 name: 王腾博 (Tengbo Wang)
-image: images/people/wangtengbo.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/wangtengbo.jpg
 role: current_phd
 
 aliases:

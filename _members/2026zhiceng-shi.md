@@ -1,6 +1,6 @@
 ---
 name: 史志层 (Zhiceng Shi)
-image: images/people/shizhiceng.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/shizhiceng.jpg
 role: current_phd
 
 aliases:

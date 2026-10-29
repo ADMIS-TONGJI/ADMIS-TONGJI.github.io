@@ -1,6 +1,6 @@
 ---
 name: 姚雨萱 (Yuxuan Yao)
-image: images/people/yaoyuxuan.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/yaoyuxuan.jpg
 role: current_phd
 
 aliases:

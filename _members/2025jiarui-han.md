@@ -1,6 +1,6 @@
 ---
 name: 韩嘉睿 (Jiarui Han)
-image: images/people/hanjiarui.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/hanjiarui.jpg
 role: current_master
 
 aliases:

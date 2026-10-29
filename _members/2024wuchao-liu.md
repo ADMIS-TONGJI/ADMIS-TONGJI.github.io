@@ -1,6 +1,6 @@
 ---
 name: 刘武超 (Wuchao Liu)
-image: images/people/liuwuchao.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/liuwuchao.jpg
 role: current_phd
 
 aliases:

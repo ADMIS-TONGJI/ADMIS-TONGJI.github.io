@@ -1,6 +1,6 @@
 ---
 name: 杨皓钦 (Haoqin Yang)
-image: images/people/yanghaoqin.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/yanghaoqin.jpg
 role: current_phd
 
 aliases:

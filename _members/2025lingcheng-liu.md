@@ -1,6 +1,6 @@
 ---
 name: 刘凌诚 (Lingcheng Liu)
-image: images/people/liulingcheng.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/liulingcheng.jpg
 role: current_phd
 
 aliases:

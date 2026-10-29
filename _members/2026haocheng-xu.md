@@ -1,6 +1,6 @@
 ---
 name: 许昊珵 (Haocheng Xu)
-image: images/people/xuhaocheng.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/xuhaocheng.jpg
 role: current_master
 
 aliases:

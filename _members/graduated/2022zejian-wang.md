@@ -1,6 +1,6 @@
 ---
 name: 王泽鉴 (Zejian Wang)
-image: images/people/wangzejian.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/wangzejian.jpg
 role: graduated_master
 
 aliases:

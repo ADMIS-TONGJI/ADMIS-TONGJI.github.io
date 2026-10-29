@@ -1,6 +1,6 @@
 ---
 name: 王家祺 (Jiaqi Wang)
-image: images/people/wangjiaqi.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/wangjiaqi.jpg
 role: current_phd
 
 aliases:

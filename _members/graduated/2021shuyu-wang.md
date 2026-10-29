@@ -1,6 +1,6 @@
 ---
 name: 王淑玉 (Shuyu Wang)
-image: images/people/wangshuyu.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/wangshuyu.jpg
 role: graduated_phd
 
 aliases:

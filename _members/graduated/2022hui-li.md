@@ -1,6 +1,6 @@
 ---
 name: 李辉 (Hui Li)
-image: images/people/lihui.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/lihui.jpg
 role: graduated_master
 
 aliases:

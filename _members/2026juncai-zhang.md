@@ -1,6 +1,6 @@
 ---
 name: 张俊财 (Juncai Zhang)
-image: images/people/zhangjuncai.png
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/zhangjuncai.png
 role: current_phd
 
 aliases:

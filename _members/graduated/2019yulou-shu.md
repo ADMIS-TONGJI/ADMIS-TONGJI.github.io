@@ -1,6 +1,6 @@
 ---
 name: 叔宇楼 (Yulou Shu)
-image: images/people/shuyulou.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/shuyulou.jpg
 role: graduated_phd
 
 aliases:

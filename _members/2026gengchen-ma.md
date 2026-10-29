@@ -1,6 +1,6 @@
 ---
 name: 马庚辰 (Gengchen Ma)
-image: images/people/magengchen.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/magengchen.jpg
 role: current_phd
 
 aliases:

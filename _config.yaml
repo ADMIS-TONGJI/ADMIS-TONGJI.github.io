@@ -2,8 +2,8 @@
 title: 同济大学ADMIS实验室
 subtitle: Tongji ADMIS Lab
 description: 
-header: images/tongji-background.jpg
-footer: images/tongji-background.jpg
+header: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/tongji-background.jpg
+footer: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/tongji-background.jpg
 proofer: false
 
 # site social media and other links

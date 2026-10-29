@@ -1,6 +1,6 @@
 ---
 name: 王林一 (Linyi Wang)
-image: images/people/wanglinyi.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/wanglinyi.jpg
 role: current_master
 
 aliases:

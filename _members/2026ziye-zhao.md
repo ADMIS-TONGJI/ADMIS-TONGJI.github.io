@@ -1,6 +1,6 @@
 ---
 name: 赵子叶 (Ziye Zhao)
-image: images/people/zhaoziye.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/zhaoziye.jpg
 role: current_master
 
 aliases:

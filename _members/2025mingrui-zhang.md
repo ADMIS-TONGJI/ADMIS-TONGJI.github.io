@@ -1,6 +1,6 @@
 ---
 name: 张铭锐 (Mingrui Zhang)
-image: images/people/zhangmingrui.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/zhangmingrui.jpg
 role: current_master
 
 aliases:

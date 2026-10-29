@@ -1,6 +1,6 @@
 ---
 name: 唐时发 (Shifa tang)
-image: images/people/tangshifa.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/tangshifa.jpg
 role: current_master
 
 aliases:

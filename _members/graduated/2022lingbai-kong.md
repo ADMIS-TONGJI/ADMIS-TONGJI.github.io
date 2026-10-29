@@ -1,6 +1,6 @@
 ---
 name: 孔令百 (Lingbai Kong)
-image: images/people/konglingbai.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/konglingbai.jpg
 role: graduated_master
 
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: 梁达豪 (Dahao Liang)
-image: images/people/liangdahao.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/liangdahao.jpg
 role: current_phd
 
 aliases:

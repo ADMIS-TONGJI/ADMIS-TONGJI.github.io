@@ -1,6 +1,6 @@
 ---
 name: 陈凌锐 (Lingrui Chen)
-image: images/people/chenlingrui.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/chenlingrui.jpg
 role: current_master
 
 aliases:

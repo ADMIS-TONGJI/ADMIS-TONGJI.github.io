@@ -1,6 +1,6 @@
 ---
 name: Diallo Hamadoun
-image: images/people/diallohamadoun.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/diallohamadoun.jpg
 role: current_master
 
 aliases:

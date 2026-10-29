@@ -1,6 +1,6 @@
 ---
 name: 宋波 (Bo Song)
-image: images/people/songbo.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/songbo.jpg
 role: current_master
 
 aliases:

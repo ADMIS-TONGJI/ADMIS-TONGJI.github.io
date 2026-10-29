@@ -1,6 +1,6 @@
 ---
 name: 梁哲旭 (Zhexu Liang)
-image: images/people/liangzhexu.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/liangzhexu.jpg
 role: current_master
 
 aliases:

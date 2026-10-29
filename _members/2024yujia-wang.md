@@ -1,6 +1,6 @@
 ---
 name: 王语嘉 (Yujia Wang)
-image: images/people/wangyujia.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/wangyujia.jpg
 role: current_master
 
 aliases:

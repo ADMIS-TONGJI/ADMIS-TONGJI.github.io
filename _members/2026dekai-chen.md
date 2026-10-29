@@ -1,6 +1,6 @@
 ---
 name: 陈德凯 (Dekai Chen)
-image: images/people/chendekai.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/chendekai.jpg
 role: current_phd
 
 aliases:

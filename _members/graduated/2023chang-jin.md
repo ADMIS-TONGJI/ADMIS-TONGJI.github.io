@@ -1,6 +1,6 @@
 ---
 name: 金唱 (Chang Jin)
-image: images/people/jinchang.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/jinchang.jpg
 role: graduated_master
 
 aliases:

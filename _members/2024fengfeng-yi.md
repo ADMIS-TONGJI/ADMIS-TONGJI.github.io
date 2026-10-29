@@ -1,6 +1,6 @@
 ---
 name: 宜锋锋 (Fengfeng Yi)
-image: images/people/yifengfeng.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/yifengfeng.jpg
 role: current_master
 
 aliases:

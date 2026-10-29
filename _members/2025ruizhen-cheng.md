@@ -1,6 +1,6 @@
 ---
 name: 程瑞真 (Ruizhen Cheng)
-image: images/people/chengruizhen.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/chengruizhen.jpg
 role: current_master
 
 aliases:

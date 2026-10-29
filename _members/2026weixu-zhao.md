@@ -1,6 +1,6 @@
 ---
 name: 赵唯旭 (Weixu Zhao)
-image: images/people/zhaoweixu.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/zhaoweixu.jpg
 role: current_phd
 
 aliases:

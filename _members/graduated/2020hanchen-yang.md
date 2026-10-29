@@ -1,6 +1,6 @@
 ---
 name: 杨涵晨 (Hanchen Yang)
-image: images/people/yanghanchen.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/yanghanchen.jpg
 role: graduated_phd
 
 aliases:

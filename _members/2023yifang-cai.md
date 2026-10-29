@@ -1,6 +1,6 @@
 ---
 name: 蔡依芳 (Yifang Cai)
-image: images/people/caiyifang.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/caiyifang.jpg
 role: current_phd
 
 aliases:

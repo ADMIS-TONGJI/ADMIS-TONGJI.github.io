@@ -1,6 +1,6 @@
 ---
 name: 杨玥 (Yue Yang)
-image: images/people/yangyue.png
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/yangyue.png
 role: graduated_phd
 
 aliases:

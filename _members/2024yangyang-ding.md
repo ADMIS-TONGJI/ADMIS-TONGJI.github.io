@@ -1,6 +1,6 @@
 ---
 name: 丁洋洋 (Yangyang Ding)
-image: images/people/dingyangyang.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/dingyangyang.jpg
 role: current_master
 
 aliases:

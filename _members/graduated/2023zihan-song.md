@@ -1,6 +1,6 @@
 ---
 name: 宋子涵 (Zihan Song)
-image: images/people/songzihan.jpg
+image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/people/songzihan.jpg
 role: graduated_master
 
 aliases:
