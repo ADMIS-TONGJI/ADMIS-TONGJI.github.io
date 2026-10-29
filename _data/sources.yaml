@@ -882,3 +882,16 @@
 # Joint Imputation of Multiple Highly Sparse Remote Sensing Observations
 - id: doi:10.1016/j.eswa.2026.134391
   image: images/papers/10.1016j.eswa.2026.134391.png
+
+# SWAN: accepted manuscript without a DOI; date supplied by the lab.
+- title: Heterogeneous Fusion of Spectrogram and Waveform with Sub-band Adaptation for Underwater Acoustic Target Recognition
+  authors:
+    - Yangyang Ding
+    - Wengen Li
+    - Jihong Guan
+    - Yichao Zhang
+    - Shuigeng Zhou
+  publisher: Ocean Engineering (Elsevier)
+  date: '2026-11-05'
+  description: Accepted, 2026.
+  image: images/papers/swan-accepted-2026.png
