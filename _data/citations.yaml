@@ -3373,7 +3373,7 @@
   publisher: 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   date: '2025-06-10'
   link: https://doi.org/g96sdc
-  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109CVPR52734.2025.01663.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109CVPR52734.2025.01663.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TAI.2025.3548621
@@ -3389,7 +3389,7 @@
   publisher: IEEE Transactions on Artificial Intelligence
   date: '2025-11-01'
   link: https://doi.org/g87kw4
-  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAI.2025.3548621.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAI.2025.3548621.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2025.3550372
@@ -3404,7 +3404,7 @@
   publisher: IEEE Transactions on Geoscience and Remote Sensing
   date: '2025-01-01'
   link: https://doi.org/g9bd2d
-  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TGRS.2025.3550372.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TGRS.2025.3550372.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3712607
@@ -3418,7 +3418,7 @@
   publisher: ACM Transactions on Intelligent Systems and Technology
   date: '2025-04-16'
   link: https://doi.org/g87zcj
-  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453712607.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453712607.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2025.3555634
@@ -3436,7 +3436,7 @@
   publisher: IEEE Transactions on Geoscience and Remote Sensing
   date: '2025-01-01'
   link: https://doi.org/g9bd2g
-  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TGRS.2025.3555634.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TGRS.2025.3555634.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TAFFC.2025.3559866
@@ -3449,7 +3449,7 @@
   publisher: IEEE Transactions on Affective Computing
   date: '2025-07-01'
   link: https://doi.org/g9mc8x
-  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAFFC.2025.3559866.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAFFC.2025.3559866.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3735646
@@ -3509,7 +3509,7 @@
   publisher: Neurocomputing
   date: '2025-10-01'
   link: https://doi.org/g9r3zp
-  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.neucom.2025.130509.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.neucom.2025.130509.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1142/S0219720025500064
@@ -3610,7 +3610,7 @@
   publisher: IEEE Transactions on Artificial Intelligence
   date: '2026-03-01'
   link: https://doi.org/g974hg
-  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAI.2025.3596930.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAI.2025.3596930.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TAI.2025.3602409
@@ -3625,7 +3625,7 @@
   publisher: IEEE Transactions on Artificial Intelligence
   date: '2026-03-01'
   link: https://doi.org/g974hh
-  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAI.2025.3602409.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TAI.2025.3602409.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3769297
@@ -3644,7 +3644,7 @@
   publisher: ACM Transactions on Knowledge Discovery from Data
   date: '2025-11-06'
   link: https://doi.org/g974hk
-  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453769297.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.11453769297.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2025.3624051
@@ -3661,7 +3661,7 @@
   publisher: IEEE Transactions on Geoscience and Remote Sensing
   date: '2025-01-01'
   link: https://doi.org/g974mr
-  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TGRS.2025.3624051.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1109TGRS.2025.3624051.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.eswa.2026.131618
@@ -3678,7 +3678,7 @@
   publisher: Expert Systems with Applications
   date: '2026-06-01'
   link: https://doi.org/hbsqfs
-  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.eswa.2026.131618.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.1016j.eswa.2026.131618.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/rs18040662
@@ -3693,7 +3693,7 @@
   publisher: Remote Sensing
   date: '2026-02-22'
   link: https://doi.org/hbsqft
-  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.3390rs18040662.jpg
+  image: https://admis-web.oss-cn-shanghai.aliyuncs.com/images/papers/10.3390rs18040662.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.eswa.2026.133367
